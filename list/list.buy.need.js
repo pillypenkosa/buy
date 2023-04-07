@@ -9,17 +9,23 @@ const arrBuyNeed = [
 
 {
 	id: '2023_04_07_1848',
-	title: 'Наконечники для дротів // 3 - 4 мм // під обжимку',
-	store: { car: 1, autograd: 1, losk: 1, },
-},
-{
-	id: '2023_04_07_1733',
-	title: 'Олія моторна 5л // Aral Blue Tronic 10w40, ACEA A3/B4, API SN, VW 501.01/505.00',
+	title: 'Накінечники для дротів // 3 - 4 мм // під обжимку // для з\'єднання-нарощування дротів',
 	store: { car: 1, autograd: 1, losk: 1, },
 },
 {
 	id: '2023_04_07_1732',
 	title: 'Разъем VAG // 3-контактный на катушку',
+	store: { car: 1, autograd: 1, losk: 1, },
+},
+
+{
+	id: '2023_04_07_1910',
+	title: 'Піни та резинові втулки для роз\'ємів',
+	store: { car: 1, autograd: 1, losk: 1, },
+},
+{
+	id: '2023_04_07_1733',
+	title: 'Олія моторна 5л // Aral Blue Tronic 10w40, ACEA A3/B4, API SN, VW 501.01/505.00',
 	store: { car: 1, autograd: 1, losk: 1, },
 },
 {
@@ -96,9 +102,9 @@ const arrBuyNeed = [
 
 
 {
-	id: '2023_04_07_1731',
-	title: 'Бочка',
-	store: { barabashovo: 1, },
+	id: '2023_04_07_1914',
+	title: 'Вітаміни для очей // Чорниця',
+	store: { pharmacy: 1, },
 },
 
 
@@ -138,6 +144,8 @@ const arrBuyNeed = [
 const arrStore = [
 
 	{ id: 'atb' 			, title: 'АТБ'			, },
+	{ id: 'rost' 			, title: 'Рост'			, },
+	{ id: 'pharmacy' 		, title: 'Аптека'		, },
 	{ id: 'barabashovo' 	, title: 'Барабан' 		, },
 	{ id: 'market' 			, title: 'Ц.Рынок'		, },
 	{ id: 'autograd' 		, title: 'Автоград' 	, },
