@@ -740,12 +740,13 @@ const arrBuy = [
 },
 {
 	id 				: '2021_00_00_1206',
-	title 			: 'ВВ Провода на свічки',
+	title 			: 'Провода ВВ (свічні)',
 	manufacturer 	: 'Beru',
 	mark 			: 'ZEF 561',
 	country 		: 'fra',
 	cat 			: { car: { part: 1, }, },
 	trader 			: { seller: '_alexandr_sto_pivdennePushka', },
+	note 			: 'Beru 0300.890.561',
 },
 {
 	id 				: '2021_00_000_1205',
