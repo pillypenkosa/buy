@@ -64,9 +64,15 @@ const arrBuy = [
 
 
 
-
-
-
+{
+	id 				: '2023_04_18_1200',
+	title 			: 'Розподільник запалювання',
+	manufacturer 	: 'JP Group',
+	mark 			: '1191100500',
+	trader 			: { site: '',  },
+	cost 			: { total: 1200, price: 1200, item: 1, unit: 'шт', },
+	note 			: '',
+},
 {
 	id 				: '2023_04_01_1201',
 	title 			: 'Реле 21. Поворотники',
