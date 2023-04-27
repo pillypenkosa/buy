@@ -6,6 +6,7 @@ const arrBuy = [
 { 
 	id  			: '', 
 	title 			: '',
+	cat 			: '',
 	manufacturer 	: '', 
 	mark 			: '',
 	code 			: '',
@@ -67,6 +68,7 @@ const arrBuy = [
 {
 	id 				: '2023_04_18_1200',
 	title 			: 'Розподільник запалювання',
+	cat 			: 'car',
 	manufacturer 	: 'JP Group',
 	mark 			: '1191100500',
 	trader 			: { site: '',  },
@@ -76,6 +78,7 @@ const arrBuy = [
 {
 	id 				: '2023_04_01_1201',
 	title 			: 'Реле 21. Поворотники',
+	cat 			: 'car',
 	manufacturer 	: 'Febi',
 	mark 			: '11574',
 	trader 			: { shop: 'kharkiv_bus_auto', site: 'https://busauto.kh.ua/ua/p1214881753-febi-11574-rele.html',  },
@@ -85,6 +88,7 @@ const arrBuy = [
 {
 	id 				: '2023_03_30_1003',
 	title 			: 'ГБО 4',
+	cat 			: 'car',
 	manufacturer 	: '',
 	mark 			: '',
 	cost 			: { total: 9000, price: 9000, item: 1, unit: 'шт', },
@@ -93,6 +97,7 @@ const arrBuy = [
 {
 	id 				: '2023_03_30_1002',
 	title 			: 'Форсунки',
+	cat 			: 'car',
 	manufacturer 	: 'Valtek',
 	mark 			: '',
 	cost 			: { total: 0, price: 0, item: 4, unit: 'шт', },
@@ -101,6 +106,7 @@ const arrBuy = [
 {
 	id 				: '2023_03_30_1001',
 	title 			: 'Редуктор',
+	cat 			: 'car',
 	manufacturer 	: 'Tomasetto',
 	mark 			: '',
 	cost 			: { total: 0, price: 0, item: 1, unit: 'шт', },
@@ -109,6 +115,7 @@ const arrBuy = [
 {
 	id 				: '2022_12_28_0901',
 	title 			: 'Шланг пожежний',
+	cat 			: '',
 	manufacturer 	: '',
 	mark 			: '',
 	cost 			: { total: 900, price: 45, item: 20, unit: 'м', },
@@ -117,6 +124,7 @@ const arrBuy = [
 {
 	id 				: '2022_12_28_0900',
 	title 			: 'Насос фекальний',
+	cat 			: '',
 	manufacturer 	: 'Delta',
 	mark 			: 'WQD',
 	trader 			: { shop: 'kharkiv_aquaera_1', },
@@ -125,6 +133,7 @@ const arrBuy = [
 {
 	id 				: '2022_12_11_0800',
 	title 			: 'Акумулятор',
+	cat 			: 'car',
 	manufacturer 	: 'Exide 64 A/h',
 	mark 			: '',
 	trader 			: { shop: 'kharkiv_losk_10_22', },
@@ -133,6 +142,7 @@ const arrBuy = [
 {
 	id 				: '2022_12_03_1202',
 	title 			: 'Тепловентилятор',
+	cat 			: '',
 	manufacturer 	: 'Crownberg',
 	mark 			: 'CB-7747',
 	trader 			: { shop: '', site: 'https://prom.ua/ua/p1617063396-teploventilyator-obogrevatel-dujka.html?adjust_campaign=share&adjust_adgroup=android&adjust_creative=product&utm_campaign=share_button&utm_medium=referral_link&utm_source=b2c_app_android',  },
@@ -141,6 +151,7 @@ const arrBuy = [
 {
 	id 				: '2022_12_03_1201',
 	title 			: 'Тепловентилятор',
+	cat 			: '',
 	manufacturer 	: 'Crownberg',
 	mark 			: 'CB-7746',
 	trader 			: { shop: '', site: 'https://prom.ua/ua/p1617063394-teploventilyator-obogrevatel-dujka.html?adjust_campaign=share&adjust_adgroup=android&adjust_creative=product&utm_campaign=share_button&utm_medium=referral_link&utm_source=b2c_app_android',  },
@@ -149,6 +160,7 @@ const arrBuy = [
 {
 	id 				: '2022_12_03_1103',
 	title 			: 'Омывайка для стекол 5 л',
+	cat 			: 'car',
 	manufacturer 	: '',
 	mark 			: '',
 	trader 			: { shop: 'kharkiv_losk_2_4',  },
@@ -157,6 +169,7 @@ const arrBuy = [
 {
 	id 				: '2022_12_03_1102',
 	title 			: 'Масло ГУР',
+	cat 			: 'car',
 	manufacturer 	: 'Febi',
 	mark 			: '№ 06161',
 	trader 			: { shop: 'kharkiv_losk_2_4',  },
@@ -166,6 +179,7 @@ const arrBuy = [
 {
 	id 				: '2022_12_03_1101',
 	title 			: 'Болт-пробка маслосливная ',
+	cat 			: '',
 	manufacturer 	: '',
 	mark 			: '',
 	trader 			: { shop: 'kharkiv_losk_2_4',  },
@@ -174,6 +188,7 @@ const arrBuy = [
 {
 	id 				: '2022_12_01_1705',
 	title 			: 'SSD M.2 1TB',
+	cat 			: '',
 	manufacturer 	: 'Kingston NV1',
 	mark 			: '9KXJKEJ4RC6A66',
 	trader 			: { shop: 'kharkiv_elmir_2', site: 'https://elmir.ua/ssd-drives/ssd-drive_m_2_1tb_kingston_nv1_snvs_1000g.html', },
@@ -182,6 +197,7 @@ const arrBuy = [
 {
 	id 				: '2022_11_18_1304',
 	title 			: 'Насос циркуляційний',
+	cat 			: '',
 	manufacturer 	: 'Wilo',
 	mark 			: 'Star-RS 25/6 (4032956)',
 	trader 			: { shop: 'rozetka', site: 'https://rozetka.com.ua/wilo_star_rs_25_6_4032956/p5503491/characteristics/', },
@@ -190,6 +206,7 @@ const arrBuy = [
 {
 	id 				: '2022_11_18_1303',
 	title 			: 'Балаклава зимня',
+	cat 			: '',
 	manufacturer 	: 'Флісова чорна',
 	mark 			: '',
 	trader 			: { shop: '', },
@@ -199,6 +216,7 @@ const arrBuy = [
 {
 	id 				: '2022_11_18_1302',
 	title 			: 'Рукавиці',
+	cat 			: '',
 	manufacturer 	: 'Флісові чорні',
 	mark 			: '',
 	trader 			: { shop: '', },
@@ -208,6 +226,7 @@ const arrBuy = [
 {
 	id 				: '2022_11_18_1301',
 	title 			: 'Мішок спальний',
+	cat 			: '',
 	manufacturer 	: '',
 	mark 			: '',
 	trader 			: { shop: '', },
@@ -217,6 +236,7 @@ const arrBuy = [
 {
 	id 				: '2022_10_28_1002',
 	title 			: 'Олія моторна',
+	cat 			: '',
 	manufacturer 	: 'Aral Blue Tronic',
 	mark 			: '10w40, ACEA A3/B4, API SN, VW 501.01/505.00',
 	trader 			: { shop: 'kharkiv_losk_2_4', },
@@ -225,6 +245,7 @@ const arrBuy = [
 {
 	id 				: '2022_10_28_1001',
 	title 			: 'Олія моторна',
+	cat 			: '',
 	manufacturer 	: 'Aral Blue Tronic',
 	mark 			: '10w40, ACEA A3/B4, API SN, VW 501.01/505.00',
 	trader 			: { shop: 'kharkiv_losk_2_4', },
@@ -233,6 +254,7 @@ const arrBuy = [
 {
 	id 				: '2022_10_28_1000',
 	title 			: 'Фільтр масляний',
+	cat 			: '',
 	manufacturer 	: 'Mahle',
 	mark 			: 'OC 2640',
 	trader 			: { shop: 'kharkiv_losk_2_4', },
@@ -242,6 +264,7 @@ const arrBuy = [
 { 
 	id  			: '2022_10_29_1802',
 	title 			: 'Вимикач фонарів заднього ходу', 
+	cat 			: '',
 	manufacturer 	: 'Febi', 
 	mark 			: '21760',
 	cat 			: { },
@@ -251,6 +274,7 @@ const arrBuy = [
 { 
 	id  			: '2022_10_29_1801',
 	title 			: 'Фільтр повітряний (ДМРВ)', 
+	cat 			: '',
 	manufacturer 	: 'Meyle', 
 	mark 			: '1121290008',
 	cat 			: { },
@@ -260,6 +284,7 @@ const arrBuy = [
 { 
 	id  			: '2022_10_29_1800',
 	title 			: 'Прокладка піддону картера двигуна', 
+	cat 			: '',
 	manufacturer 	: 'Elring', 
 	mark 			: '495.620',
 	cat 			: { },
@@ -269,6 +294,7 @@ const arrBuy = [
 { 
 	id  			: '2022_10_28_1300',
 	title 			: 'Силикагель наполнитель для котов', 
+	cat 			: '',
 	manufacturer 	: '', 
 	mark 			: '',
 	cat 			: { },
@@ -279,6 +305,7 @@ const arrBuy = [
 { 
 	id  			: '2022_10_28_1001',
 	title 			: 'Прокладка дроссельной заслонки', 
+	cat 			: '',
 	manufacturer 	: 'Elring', 
 	mark 			: '',
 	cat 			: { car: { parts: 1, }, },
@@ -289,6 +316,7 @@ const arrBuy = [
 { 
 	id  			: '2022_10_28_1000',
 	title 			: 'Спрей карб-клинер', 
+	cat 			: '',
 	manufacturer 	: '', 
 	mark 			: '',
 	cat 			: { car: { }, },
@@ -299,6 +327,7 @@ const arrBuy = [
 { 
 	id  			: '2022_09_05_1000',
 	title 			: 'Шини 185/65/R14', 
+	cat 			: '',
 	manufacturer 	: 'Goodyear', 
 	mark 			: 'UltraGrip Ice 2',
 	cat 			: { car: { parts: 1, }, },
@@ -309,6 +338,7 @@ const arrBuy = [
 { 
 	id  			: '2022_07_28_1803',
 	title 			: 'Фільтр салону', 
+	cat 			: '',
 	manufacturer 	: 'Shafer', 
 	mark 			: 'SAK44',
 	cat 			: { car: { parts: 1, }, },
@@ -318,6 +348,7 @@ const arrBuy = [
 { 
 	id  			: '2022_07_28_1802',
 	title 			: 'Патрубок радіатора грубки', 
+	cat 			: '',
 	manufacturer 	: 'Meyle', 
 	mark 			: '1198190014',
 	cat 			: { car: { parts: 1, }, },
@@ -328,6 +359,7 @@ const arrBuy = [
 { 
 	id  			: '2022_07_28_1801',
 	title 			: 'Патрубок радіатора грубки',
+	cat 			: '',
 	manufacturer 	: 'JP Group', 
 	mark 			: '1114304300',
 	cat 			: { car: { parts: 1, }, },
@@ -338,6 +370,7 @@ const arrBuy = [
 { 
 	id  			: '2022_07_28_1800',
 	title 			: 'Радіатор грубки', 
+	cat 			: '',
 	manufacturer 	: 'Febi', 
 	mark 			: '',
 	cat 			: { car: { parts: 1, }, },
@@ -347,6 +380,7 @@ const arrBuy = [
 { 
 	id  			: '2022_06_29_0901',
 	title 			: 'Коронка', 
+	cat 			: '',
 	manufacturer 	: '32 мм', 
 	mark 			: '',
 	cat 			: { tool: 1, },
@@ -356,6 +390,7 @@ const arrBuy = [
 { 
 	id  			: '2022_06_29_0900',
 	title 			: 'Бак пластиковий', 
+	cat 			: '',
 	manufacturer 	: 'Europlast', 
 	mark 			: '300 л',
 	cat 			: { home: { water: 1, }, },
@@ -365,6 +400,7 @@ const arrBuy = [
 { 
 	id  			: '2022_06_05_0904',
 	title 			: 'П\'ятерник', 
+	cat 			: '',
 	manufacturer 	: '', 
 	mark 			: '',
 	cat 			: { home: { water: 1, }, },
@@ -373,6 +409,7 @@ const arrBuy = [
 { 
 	id  			: '2022_06_05_0903',
 	title 			: 'Манометр', 
+	cat 			: '',
 	manufacturer 	: '', 
 	mark 			: '',
 	cat 			: { home: { water: 1, }, },
@@ -381,6 +418,7 @@ const arrBuy = [
 { 
 	id  			: '2022_06_05_0902',
 	title 			: 'Реле тиску', 
+	cat 			: '',
 	manufacturer 	: 'Italtechnica', 
 	mark 			: 'PM/5G',
 	cat 			: { home: { water: 1, }, },
@@ -389,6 +427,7 @@ const arrBuy = [
 { 
 	id  			: '2022_06_05_0901',
 	title 			: 'Гідроакумулятор', 
+	cat 			: '',
 	manufacturer 	: 'Euroaqua', 
 	mark 			: '100 л',
 	cat 			: { home: { water: 1, }, },
@@ -398,6 +437,7 @@ const arrBuy = [
 { 
 	id  			: '2022_06_05_0900',
 	title 			: 'Насос', 
+	cat 			: '',
 	manufacturer 	: 'Euroaqua JET 100', 
 	mark 			: '25117002-01',
 	cat 			: { home: { water: 1, }, },
@@ -407,6 +447,7 @@ const arrBuy = [
 { 
 	id  			: '2022_06_09_1112',
 	title 			: 'Фільтр паливний', 
+	cat 			: '',
 	manufacturer 	: 'Febi', 
 	mark 			: '24073 8976',
 	cat 			: { car: { part: 1, }, },
@@ -416,6 +457,7 @@ const arrBuy = [
 { 
 	id  			: '2022_06_09_1111', 
 	title 			: 'Свічки запалювання', 
+	cat 			: '',
 	manufacturer 	: 'Denso', 
 	mark 			: 'W20EPBR-S',
 	cat 			: { car: { part: 1, }, },
@@ -426,6 +468,7 @@ const arrBuy = [
 { 
 	id  			: '2022_06_09_1110',
 	title 			: 'Олія трансмісійна', 
+	cat 			: '',
 	manufacturer 	: 'Febi', 
 	mark 			: '75W GL-4',
 	cat 			: { car: { liquid: 1, }, },
@@ -435,6 +478,7 @@ const arrBuy = [
 { 
 	id  			: '2022_06_09_1109',
 	title 			: 'Вода дистильована', 
+	cat 			: '',
 	cat 			: { car: { liquid: 1, }, },
 	trader 			: { shop: 'kharkiv_losk_2_4', seller: '_maxim_artemovka_losk_2_4', },
 	cost 			: { total: 50, price: 10, item: 5, unit: 'л', },
@@ -442,6 +486,7 @@ const arrBuy = [
 { 
 	id  			: '2022_06_09_1108',
 	title 			: 'Антифриз',
+	cat 			: '',
 	manufacturer 	: 'Hepu', 
 	mark 			: 'P999-G12-005',
 	country 		: 'deu',
@@ -452,6 +497,7 @@ const arrBuy = [
 { 
 	id  			: '2022_06_09_1107',
 	title 			: 'Патрубок картерних газів', 
+	cat 			: '',
 	manufacturer 	: 'Topran', 
 	mark 			: '109614 3800J49',
 	vag 			: '037103211',
@@ -463,6 +509,7 @@ const arrBuy = [
 { 
 	id  			: '2022_06_09_1106', 
 	title 			: 'Фланець антифризу', 
+	cat 			: '',
 	manufacturer 	: 'Febi', 
 	mark 			: '12410 8624 PA66-GF30',
 	vag 			: '037121145',
@@ -474,6 +521,7 @@ const arrBuy = [
 { 
 	id  			: '2022_06_09_1105', 
 	title 			: 'Помпа', 
+	cat 			: '',
 	manufacturer 	: 'INA', 
 	cat 			: { car: { part: 1, }, },
 	trader 			: { shop: 'kharkiv_losk_2_4', seller: '_maxim_artemovka_losk_2_4', },
@@ -482,6 +530,7 @@ const arrBuy = [
 { 
 	id  			: '2022_06_09_1104', 
 	title 			: 'Ролик', 
+	cat 			: '',
 	manufacturer 	: 'INA', 
 	cat 			: { car: { part: 1, }, },
 	trader 			: { shop: 'kharkiv_losk_2_4', seller: '_maxim_artemovka_losk_2_4', },
@@ -490,6 +539,7 @@ const arrBuy = [
 { 
 	id  			: '2022_06_09_1103', 
 	title 			: 'Ролик ГРМ', 
+	cat 			: '',
 	manufacturer 	: 'INA', 
 	cat 			: { car: { part: 1, }, },
 	trader 			: { shop: 'kharkiv_losk_2_4', seller: '_maxim_artemovka_losk_2_4', },
@@ -498,6 +548,7 @@ const arrBuy = [
 { 
 	id  			: '2022_06_09_1102', 
 	title 			: 'Ремінь клиновий', 
+	cat 			: '',
 	manufacturer 	: 'Gates', 
 	mark 			: '6389 MC',
 	country 		: 'esp',
@@ -509,6 +560,7 @@ const arrBuy = [
 { 
 	id  			: '2022_06_09_1101', 
 	title 			: 'Ремінь полікліновий', 
+	cat 			: '',
 	manufacturer 	: 'Contitech', 
 	mark 			: '6 PK 1153',
 	country 		: 'rou',
@@ -519,6 +571,7 @@ const arrBuy = [
 { 
 	id  			: '2022_06_09_1100', 
 	title 			: 'Ремінь ГРМ', 
+	cat 			: '',
 	manufacturer 	: 'Contitech', 
 	mark 			: 'CT 630. 0433 10022022',
 	country 		: 'deu',
@@ -529,12 +582,14 @@ const arrBuy = [
 { 
 	id  			: '2022_06_09_0831', 
 	title 			: 'Резина листова. Рулончик', 
+	cat 			: '',
 	trader 			: { shop: 'kharkiv_blagbaz', },
 	cost 			: { total: 35, price: 35, item: 1, unit: 'шт', },
 },
 { 
 	id  			: '2022_06_09_0830', 
 	title 			: 'Диск відрізний 32х300', 
+	cat 			: '',
 	cat 			: { tool: { }, },
 	trader 			: { shop: 'kharkiv_blagbaz', },
 	cost 			: { total: 160, price: 80, item: 2, unit: 'шт', },
@@ -542,6 +597,7 @@ const arrBuy = [
 { 
 	id  			: '2022_06_07_1200', 
 	title 			: 'Зарядний пристрій', 
+	cat 			: '',
 	manufacturer 	: 'Dnipro-M', 
 	mark 			: 'BC-16',
 	site 			: 'https://dnipro-m.ua/tovar/zaryadnoe-ystroistvo-cb-16s/?tab=description',
@@ -552,6 +608,7 @@ const arrBuy = [
 { 
 	id  			: '2022_06_07_1100', 
 	title 			: 'Змішувач в ванну без носика (только душ)', 
+	cat 			: '',
 	manufacturer 	: 'Haiba', 
 	trader 			: { shop: 'merefa_rynok_santehnika_1', },
 	cost 			: { total: 1100, price: 1100, item: 1, unit: 'шт', },
@@ -559,18 +616,21 @@ const arrBuy = [
 { 
 	id  			: '2022_05_20_1001', 
 	title 			: 'Подсумок для 3 магазинов АК', 
+	cat 			: '',
 	trader 			: { shop: 'kharkiv_armeysky_1', },
 	cost 			: { total: 400, price: 400, item: 1, unit: 'шт', },
 },
 { 
 	id  			: '2022_05_20_1000', 
 	title 			: 'Балаклава', 
+	cat 			: '',
 	trader 			: { shop: 'kharkiv_gvardeysky_1', },
 	cost 			: { total: 120, price: 120, item: 1, unit: 'шт', },
 },
 { 
 	id  			: '2022_05_20_0900', 
 	title 			: 'Телефон', 
+	cat 			: '',
 	manufacturer 	: 'Xiaomi', 
 	mark 			: 'Poco M3 Pro 5G 4/64GB',
 	site 			: 'https://elmir.ua/cell_phones/mobile_phone_xiaomi_poco_m3_pro_5g_4_64gb_black_eu.html',
@@ -581,6 +641,7 @@ const arrBuy = [
 { 
 	id  			: '2022_05_17_1004', 
 	title 			: 'Щітка по металу для болгарки', 
+	cat 			: '',
 	site 			: 'https://dnipro-m.ua/tovar/shhetka-po-metallu-dnipro-m-konusnaya-gofr-provoloka-125mm/',
 	trader 			: { shop: 'merefa_dnipro_m', },
 	cost 			: { total: 80, price: 80, item: 1, unit: 'шт', },
@@ -588,6 +649,7 @@ const arrBuy = [
 { 
 	id  			: '2022_05_17_1003', 
 	title 			: 'Свердла (набор)', 
+	cat 			: '',
 	site 			: 'https://dnipro-m.ua/tovar/tovar-nabor-sverl-po-metalu/',
 	trader 			: { shop: 'merefa_dnipro_m', },
 	cost 			: { total: 230, price: 230, item: 1, unit: 'шт', },
@@ -595,12 +657,14 @@ const arrBuy = [
 { 
 	id  			: '2022_05_17_1002', 
 	title 			: 'Диски для болгарки, 1 мм', 
+	cat 			: '',
 	trader 			: { shop: 'merefa_dnipro_m', },
 	cost 			: { total: 210, price: 21, item: 10, unit: 'шт', },
 },
 { 
 	id  			: '2022_05_17_1001', 
 	title 			: 'Шуруповерт', 
+	cat 			: '',
 	manufacturer 	: 'Dnipro-M', 
 	mark 			: 'TD-32Q',
 	site 			: 'https://dnipro-m.ua/tovar/drel-shurupovert-setevaya-td-32q/?tab=characteristics',
@@ -610,6 +674,7 @@ const arrBuy = [
 { 
 	id  			: '2022_05_17_1000', 
 	title 			: 'Болгарка', 
+	cat 			: '',
 	manufacturer 	: 'Dnipro-M', 
 	trader 			: { shop: 'merefa_dnipro_m', },
 	cost 			: { total: 1700, price: 1700, item: 1, unit: 'шт', },
@@ -618,6 +683,7 @@ const arrBuy = [
 { 
 	id  			: '2022_05_16_1001', 
 	title 			: 'Каністра пластикова для бензину', 
+	cat 			: '',
 	mark 			: '20 л',
 	trader 			: { shop: 'kharkiv_avtograd', },
 	cost 			: { total: 600, price: 600, item: 1, unit: 'шт', },
@@ -625,12 +691,14 @@ const arrBuy = [
 { 
 	id  			: '2022_05_16_1000', 
 	title 			: 'Лійка пластикова для бензина', 
+	cat 			: '',
 	trader 			: { shop: 'kharkiv_avtograd', },
 	cost 			: { total: 100, price: 100, item: 1, unit: 'шт', },
 },
 { 
 	id  			: '2022_05_15_2200', 
 	title 			: 'Power Bank', 
+	cat 			: '',
 	manufacturer 	: 'No Name', 
 	mark 			: '10000 mAh',
 	trader 			: { other: 'Павлюченко И.', },
@@ -639,6 +707,7 @@ const arrBuy = [
 {
 	id 				: '2022_05_04_1105',
 	title 			: 'Ручка дверей',
+	cat 			: '',
 	manufacturer 	: 'Topran',
 	cat 			: { car: { part: 1, }, },
 	trader 			: { shop: 'kharkiv_losk_2_4', seller: '_maxim_artemovka_losk_2_4', },
@@ -648,6 +717,7 @@ const arrBuy = [
 {
 	id 				: '2022_05_04_1104',
 	title 			: 'Ручка дверей',
+	cat 			: '',
 	manufacturer 	: 'Topran',
 	cat 			: { car: { part: 1, }, },
 	trader 			: { shop: 'kharkiv_losk_2_4', seller: '_maxim_artemovka_losk_2_4', },
@@ -657,6 +727,7 @@ const arrBuy = [
 {
 	id 				: '2022_05_04_1103',
 	title 			: 'Ручка дверей',
+	cat 			: '',
 	manufacturer 	: 'Topran',
 	cat 			: { car: { part: 1, }, },
 	trader 			: { shop: 'kharkiv_losk_2_4', seller: '_maxim_artemovka_losk_2_4', },
@@ -666,6 +737,7 @@ const arrBuy = [
 {
 	id 				: '2022_05_04_1102',
 	title 			: 'Рігеля',
+	cat 			: '',
 	manufacturer 	: 'Febi',
 	cat 			: { car: { part: 1, }, },
 	trader 			: { shop: 'kharkiv_losk_2_4', seller: '_maxim_artemovka_losk_2_4', },
@@ -675,6 +747,7 @@ const arrBuy = [
 {
 	id 				: '2022_05_04_1101',
 	title 			: 'Кліпси дверних ручек',
+	cat 			: '',
 	manufacturer 	: 'VAG',
 	cat 			: { car: { part: 1, }, },
 	trader 			: { shop: 'kharkiv_losk_2_4', seller: '_maxim_artemovka_losk_2_4', },
@@ -684,6 +757,7 @@ const arrBuy = [
 {
 	id 				: '2022_04_22_1003',
 	title 			: 'Втулки стабілізатора',
+	cat 			: '',
 	cat 			: { car: { part: 1, }, },
 	trader 			: { shop: 'kharkiv_losk_2_4', seller: '_maxim_artemovka_losk_2_4', },
 	cost 			: { total: 150, price: 75, item: 2, unit: 'шт', },
@@ -692,6 +766,7 @@ const arrBuy = [
 {
 	id 				: '2022_04_22_1002',
 	title 			: 'Гальмівні колодки',
+	cat 			: '',
 	cat 			: { car: { part: 1, }, },
 	trader 			: { shop: 'kharkiv_losk_2_4', seller: '_maxim_artemovka_losk_2_4', },
 	cost 			: { total: 900, price: 450, item: 2, unit: 'шт', },
@@ -700,6 +775,7 @@ const arrBuy = [
 {
 	id 				: '2022_04_22_1001',
 	title 			: 'Стойки-амортизаторы',
+	cat 			: '',
 	manufacturer 	: 'Meyle',
 	cat 			: { car: { part: 1, }, },
 	trader 			: { shop: 'kharkiv_losk_2_4', seller: '_maxim_artemovka_losk_2_4', },
@@ -709,6 +785,7 @@ const arrBuy = [
 { 
 	id  			: '2022_04_10_1000',
 	title 			: 'Web-камера', 
+	cat 			: '',
 	manufacturer 	: 'Media-Tech', 
 	mark 			: 'LOOK V MT4107',
 	cat 			: { pc: {}, },
@@ -718,6 +795,7 @@ const arrBuy = [
 { 
 	id  			: '2022_04_02_1000',
 	title 			: 'Машинка для підстригання', 
+	cat 			: '',
 	manufacturer 	: 'Philips', 
 	mark 			: 'HC3510/15',
 	cat 			: { home: {}, },
@@ -727,17 +805,20 @@ const arrBuy = [
 {
 	id 				: '2021_12_09_1030',
 	title 			: 'Компресор для колес',
+	cat 			: '',
 	manufacturer 	: 'Winso',
 	trader 			: { shop: 'kharkiv_losk_11_49', },
 },
 {
 	id 				: '2021_12_09_1002',
 	title 			: 'Масляний фільтр',
+	cat 			: '',
 	trader 			: { shop: 'kharkiv_losk_9_97', },
 },
 {
 	id 				: '2021_12_09_1001',
 	title 			: 'Олія моторна',
+	cat 			: '',
 	manufacturer 	: 'Valvoline MaxLife',
 	mark 			: '10w40 Synthetic Technology',
 	trader 			: { shop: 'kharkiv_losk_9_97', },
@@ -747,6 +828,7 @@ const arrBuy = [
 {
 	id 				: '2021_00_00_1206',
 	title 			: 'Провода ВВ (свічні)',
+	cat 			: '',
 	manufacturer 	: 'Beru',
 	mark 			: 'ZEF 561',
 	country 		: 'fra',
@@ -757,11 +839,13 @@ const arrBuy = [
 {
 	id 				: '2021_00_000_1205',
 	title 			: 'Кришка трамблера',
+	cat 			: '',
 	manufacturer 	: 'Metzger',
 },
 {
 	id 				: '2021_00_00_1204',
 	title 			: 'Лямбда-зонд',
+	cat 			: '',
 	manufacturer 	: 'Bosch',
 	code 			: '0 258 005 133',
 	country 		: 'fra',
@@ -771,6 +855,7 @@ const arrBuy = [
 {
 	id 				: '2021_00_00_1203',
 	title 			: 'Патрубок ДМРВ-колектора',
+	cat 			: '',
 	mark 			: 'хобот',
 	trader 			: { shop: 'kharkiv_avtograd', },
 	cost 			: { total: 500, price: 500, item: 1, unit: 'шт', },
@@ -779,6 +864,7 @@ const arrBuy = [
 {
 	id 				: '2021_00_00_1202',
 	title 			: 'ДМРВ',
+	cat 			: '',
 	manufacturer 	: 'Bosch',
 	trader 			: { shop: 'kharkiv_avtograd', },
 	cost 			: { total: 2700, price: 2700, item: 1, unit: 'шт', },
@@ -787,6 +873,7 @@ const arrBuy = [
 { 
 	id  			: '2020_10_15_1000',
 	title 			: 'Батарея ИПБ', 
+	cat 			: '',
 	manufacturer 	: 'CSB 12В 9Ач', 
 	mark 			: 'HR1234WF2',
 	cat 			: { pc: {}, },
@@ -796,6 +883,7 @@ const arrBuy = [
 { 
 	id  			: '2020_08_10_0900',
 	title 			: 'Котушка запалювання', 
+	cat 			: '',
 	manufacturer 	: 'Bremi', 
 	mark 			: '',
 	cat 			: { car: { parts: 1, }, },
@@ -805,6 +893,7 @@ const arrBuy = [
 { 
 	id  			: '2020_04_18_0900',
 	title 			: 'Відеореєстратор', 
+	cat 			: '',
 	manufacturer 	: 'Xiaomi Yi Smart', 
 	mark 			: 'Dash Camera',
 	cat 			: { car: { }, },
@@ -815,6 +904,7 @@ const arrBuy = [
 { 
 	id  			: '2019_11_19_1000',
 	title 			: 'Ваги підлогові', 
+	cat 			: '',
 	manufacturer 	: 'Mirta', 
 	mark 			: 'SB-3120',
 	cat 			: { home: {}, },
@@ -824,6 +914,7 @@ const arrBuy = [
 { 
 	id  			: '2018_06_04_1000',
 	title 			: 'Ноутбук', 
+	cat 			: '',
 	manufacturer 	: 'Lenovo', 
 	mark 			: 'IdeaPad 320',
 	cat 			: { pc: {}, },
@@ -833,6 +924,7 @@ const arrBuy = [
 { 
 	id  			: '2018_03_12_1000',
 	title 			: 'HDD SATA 2 Tb', 
+	cat 			: '',
 	manufacturer 	: 'Seagate', 
 	mark 			: 'Barracuda',
 	cat 			: { pc: {}, },
@@ -842,6 +934,7 @@ const arrBuy = [
 { 
 	id  			: '2018_01_23_1000',
 	title 			: 'SSD SATA 128 Gb', 
+	cat 			: '',
 	manufacturer 	: 'Silicon Power', 
 	mark 			: 'A55',
 	cat 			: { pc: {}, },
@@ -851,6 +944,7 @@ const arrBuy = [
 { 
 	id  			: '2017_09_29_1000',
 	title 			: 'USB Flash 64 Gb', 
+	cat 			: '',
 	manufacturer 	: 'GoodRam', 
 	mark 			: 'UTS3',
 	cat 			: { pc: {}, },
@@ -860,6 +954,7 @@ const arrBuy = [
 { 
 	id  			: '2008_06_16_1000',
 	title 			: 'ИБП UPS', 
+	cat 			: '',
 	manufacturer 	: 'Mustek', 
 	mark 			: 'PowerMust 1400 USB',
 	cat 			: { pc: {}, },
@@ -869,6 +964,7 @@ const arrBuy = [
 { 
 	id  			: '2008_03_07_1600',
 	title 			: 'Монітор TFT LCD', 
+	cat 			: '',
 	manufacturer 	: 'LG Flatron', 
 	mark 			: 'L204WT',
 	cat 			: { pc: {}, },
@@ -878,6 +974,7 @@ const arrBuy = [
 { 
 	id  			: '2007_11_21_1500',
 	title 			: 'Сінтезатор', 
+	cat 			: '',
 	manufacturer 	: 'Casio', 
 	mark 			: 'CDP 100',
 	cat 			: { studio: {}, },
