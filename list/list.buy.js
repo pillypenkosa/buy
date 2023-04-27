@@ -75,13 +75,10 @@ const arrBuy = [
 	cost 			: { total: 1200, price: 1200, item: 1, unit: 'шт', },
 	note 			: '',
 },
-
-/*
-
 {
 	id 				: '2023_04_01_1201',
 	title 			: 'Реле 21. Поворотники',
-	cat 			: 'car',
+	cat 			: { car: 1, },
 	manufacturer 	: 'Febi',
 	mark 			: '11574',
 	trader 			: { shop: 'kharkiv_bus_auto', site: 'https://busauto.kh.ua/ua/p1214881753-febi-11574-rele.html',  },
@@ -91,7 +88,7 @@ const arrBuy = [
 {
 	id 				: '2023_03_30_1003',
 	title 			: 'ГБО 4',
-	cat 			: 'car',
+	cat 			: { car: 1, },
 	manufacturer 	: '',
 	mark 			: '',
 	cost 			: { total: 9000, price: 9000, item: 1, unit: 'шт', },
@@ -100,7 +97,7 @@ const arrBuy = [
 {
 	id 				: '2023_03_30_1002',
 	title 			: 'Форсунки',
-	cat 			: 'car',
+	cat 			: { car: 1, },
 	manufacturer 	: 'Valtek',
 	mark 			: '',
 	cost 			: { total: 0, price: 0, item: 4, unit: 'шт', },
@@ -109,7 +106,7 @@ const arrBuy = [
 {
 	id 				: '2023_03_30_1001',
 	title 			: 'Редуктор',
-	cat 			: 'car',
+	cat 			: { car: 1, },
 	manufacturer 	: 'Tomasetto',
 	mark 			: '',
 	cost 			: { total: 0, price: 0, item: 1, unit: 'шт', },
@@ -136,7 +133,7 @@ const arrBuy = [
 {
 	id 				: '2022_12_11_0800',
 	title 			: 'Акумулятор',
-	cat 			: 'car',
+	cat 			: { car: 1, },
 	manufacturer 	: 'Exide 64 A/h',
 	mark 			: '',
 	trader 			: { shop: 'kharkiv_losk_10_22', },
@@ -163,7 +160,7 @@ const arrBuy = [
 {
 	id 				: '2022_12_03_1103',
 	title 			: 'Омывайка для стекол 5 л',
-	cat 			: 'car',
+	cat 			: { car: 1, },
 	manufacturer 	: '',
 	mark 			: '',
 	trader 			: { shop: 'kharkiv_losk_2_4',  },
@@ -172,7 +169,7 @@ const arrBuy = [
 {
 	id 				: '2022_12_03_1102',
 	title 			: 'Масло ГУР',
-	cat 			: 'car',
+	cat 			: { car: 1, },
 	manufacturer 	: 'Febi',
 	mark 			: '№ 06161',
 	trader 			: { shop: 'kharkiv_losk_2_4',  },
@@ -989,7 +986,7 @@ const arrBuy = [
 
 
 
-*/
+
 
 
 
