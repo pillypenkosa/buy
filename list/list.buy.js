@@ -77,13 +77,26 @@ household: 1, 	// домашнее хозяйство, сад, огород, д�
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 {
 	id 				: '2023_04_28_1400',
 	title 			: 'Очисник контактів',
 	hash 			: { chemical: 1, electro: 1, },
 	manufacturer 	: 'Xado',
 	mark 			: 'Verylube',
-	trader 			: { site: 'https://xado.com/avtomobilnaya-himiya/ochistiteli-razlichnih-sistem-avtomobilya/ochistitel-kontaktov-s-effektom-udaleniya-vlagi',  },
+	trader 			: { site: 'https://xado.com/avtomobilnaya-himiya/ochistiteli-razlichnih-sistem-avtomobilya/ochistitel-kontaktov-s-effektom-udaleniya-vlagi', },
 	cost 			: { total: 135, price: 135, item: 1, unit: 'шт', },
 },
 {
@@ -200,7 +213,7 @@ household: 1, 	// домашнее хозяйство, сад, огород, д�
 {
 	id 				: '2022_12_03_1101',
 	title 			: 'Болт-пробка маслосливная ',
-	hash 			: {},
+	hash 			: { car: 1, },
 	manufacturer 	: '',
 	mark 			: '',
 	trader 			: { shop: 'kharkiv_losk_2_4',  },
@@ -257,7 +270,7 @@ household: 1, 	// домашнее хозяйство, сад, огород, д�
 {
 	id 				: '2022_10_28_1002',
 	title 			: 'Олія моторна',
-	hash 			: {},
+	hash 			: { car: 1, },
 	manufacturer 	: 'Aral Blue Tronic',
 	mark 			: '10w40, ACEA A3/B4, API SN, VW 501.01/505.00',
 	trader 			: { shop: 'kharkiv_losk_2_4', },
@@ -266,7 +279,7 @@ household: 1, 	// домашнее хозяйство, сад, огород, д�
 {
 	id 				: '2022_10_28_1001',
 	title 			: 'Олія моторна',
-	hash 			: {},
+	hash 			: { car: 1, },
 	manufacturer 	: 'Aral Blue Tronic',
 	mark 			: '10w40, ACEA A3/B4, API SN, VW 501.01/505.00',
 	trader 			: { shop: 'kharkiv_losk_2_4', },
@@ -275,7 +288,7 @@ household: 1, 	// домашнее хозяйство, сад, огород, д�
 {
 	id 				: '2022_10_28_1000',
 	title 			: 'Фільтр масляний',
-	hash 			: {},
+	hash 			: { car: 1, },
 	manufacturer 	: 'Mahle',
 	mark 			: 'OC 2640',
 	trader 			: { shop: 'kharkiv_losk_2_4', },
@@ -285,7 +298,7 @@ household: 1, 	// домашнее хозяйство, сад, огород, д�
 { 
 	id  			: '2022_10_29_1802',
 	title 			: 'Вимикач фонарів заднього ходу', 
-	hash 			: {},
+	hash 			: { car: 1, },
 	manufacturer 	: 'Febi', 
 	mark 			: '21760',
 	hash 			: { },
@@ -295,7 +308,7 @@ household: 1, 	// домашнее хозяйство, сад, огород, д�
 { 
 	id  			: '2022_10_29_1801',
 	title 			: 'Фільтр повітряний (ДМРВ)', 
-	hash 			: {},
+	hash 			: { car: 1, },
 	manufacturer 	: 'Meyle', 
 	mark 			: '1121290008',
 	hash 			: { },
@@ -305,7 +318,7 @@ household: 1, 	// домашнее хозяйство, сад, огород, д�
 { 
 	id  			: '2022_10_29_1800',
 	title 			: 'Прокладка піддону картера двигуна', 
-	hash 			: {},
+	hash 			: { car: 1, },
 	manufacturer 	: 'Elring', 
 	mark 			: '495.620',
 	hash 			: { },
@@ -326,7 +339,7 @@ household: 1, 	// домашнее хозяйство, сад, огород, д�
 { 
 	id  			: '2022_10_28_1001',
 	title 			: 'Прокладка дроссельной заслонки', 
-	hash 			: {},
+	hash 			: { car: 1, },
 	manufacturer 	: 'Elring', 
 	mark 			: '',
 	hash 			: { car: { parts: 1, }, },
@@ -337,7 +350,7 @@ household: 1, 	// домашнее хозяйство, сад, огород, д�
 { 
 	id  			: '2022_10_28_1000',
 	title 			: 'Спрей карб-клинер', 
-	hash 			: {},
+	hash 			: { car: 1, },
 	manufacturer 	: '', 
 	mark 			: '',
 	hash 			: { car: { }, },
@@ -348,7 +361,7 @@ household: 1, 	// домашнее хозяйство, сад, огород, д�
 { 
 	id  			: '2022_09_05_1000',
 	title 			: 'Шини 185/65/R14', 
-	hash 			: {},
+	hash 			: { car: 1, },
 	manufacturer 	: 'Goodyear', 
 	mark 			: 'UltraGrip Ice 2',
 	hash 			: { car: { parts: 1, }, },
@@ -359,7 +372,7 @@ household: 1, 	// домашнее хозяйство, сад, огород, д�
 { 
 	id  			: '2022_07_28_1803',
 	title 			: 'Фільтр салону', 
-	hash 			: {},
+	hash 			: { car: 1, },
 	manufacturer 	: 'Shafer', 
 	mark 			: 'SAK44',
 	hash 			: { car: { parts: 1, }, },
@@ -369,7 +382,7 @@ household: 1, 	// домашнее хозяйство, сад, огород, д�
 { 
 	id  			: '2022_07_28_1802',
 	title 			: 'Патрубок радіатора грубки', 
-	hash 			: {},
+	hash 			: { car: 1, },
 	manufacturer 	: 'Meyle', 
 	mark 			: '1198190014',
 	hash 			: { car: { parts: 1, }, },
@@ -380,7 +393,7 @@ household: 1, 	// домашнее хозяйство, сад, огород, д�
 { 
 	id  			: '2022_07_28_1801',
 	title 			: 'Патрубок радіатора грубки',
-	hash 			: {},
+	hash 			: { car: 1, },
 	manufacturer 	: 'JP Group', 
 	mark 			: '1114304300',
 	hash 			: { car: { parts: 1, }, },
@@ -391,7 +404,7 @@ household: 1, 	// домашнее хозяйство, сад, огород, д�
 { 
 	id  			: '2022_07_28_1800',
 	title 			: 'Радіатор грубки', 
-	hash 			: {},
+	hash 			: { car: 1, },
 	manufacturer 	: 'Febi', 
 	mark 			: '',
 	hash 			: { car: { parts: 1, }, },
@@ -468,7 +481,7 @@ household: 1, 	// домашнее хозяйство, сад, огород, д�
 { 
 	id  			: '2022_06_09_1112',
 	title 			: 'Фільтр паливний', 
-	hash 			: {},
+	hash 			: { car: 1, },
 	manufacturer 	: 'Febi', 
 	mark 			: '24073 8976',
 	hash 			: { car: { part: 1, }, },
@@ -478,7 +491,7 @@ household: 1, 	// домашнее хозяйство, сад, огород, д�
 { 
 	id  			: '2022_06_09_1111', 
 	title 			: 'Свічки запалювання', 
-	hash 			: {},
+	hash 			: { car: 1, },
 	manufacturer 	: 'Denso', 
 	mark 			: 'W20EPBR-S',
 	hash 			: { car: { part: 1, }, },
@@ -489,7 +502,7 @@ household: 1, 	// домашнее хозяйство, сад, огород, д�
 { 
 	id  			: '2022_06_09_1110',
 	title 			: 'Олія трансмісійна', 
-	hash 			: {},
+	hash 			: { car: 1, },
 	manufacturer 	: 'Febi', 
 	mark 			: '75W GL-4',
 	hash 			: { car: { liquid: 1, }, },
@@ -499,7 +512,7 @@ household: 1, 	// домашнее хозяйство, сад, огород, д�
 { 
 	id  			: '2022_06_09_1109',
 	title 			: 'Вода дистильована', 
-	hash 			: {},
+	hash 			: { car: 1, },
 	manufacturer 	: '', 
 	mark 			: '',
 	hash 			: { car: { liquid: 1, }, },
@@ -509,7 +522,7 @@ household: 1, 	// домашнее хозяйство, сад, огород, д�
 { 
 	id  			: '2022_06_09_1108',
 	title 			: 'Антифриз',
-	hash 			: {},
+	hash 			: { car: 1, },
 	manufacturer 	: 'Hepu', 
 	mark 			: 'P999-G12-005',
 	country 		: 'deu',
@@ -520,7 +533,7 @@ household: 1, 	// домашнее хозяйство, сад, огород, д�
 { 
 	id  			: '2022_06_09_1107',
 	title 			: 'Патрубок картерних газів', 
-	hash 			: {},
+	hash 			: { car: 1, },
 	manufacturer 	: 'Topran', 
 	mark 			: '109614 3800J49',
 	vag 			: '037103211',
@@ -532,7 +545,7 @@ household: 1, 	// домашнее хозяйство, сад, огород, д�
 { 
 	id  			: '2022_06_09_1106', 
 	title 			: 'Фланець антифризу', 
-	hash 			: {},
+	hash 			: { car: 1, },
 	manufacturer 	: 'Febi', 
 	mark 			: '12410 8624 PA66-GF30',
 	vag 			: '037121145',
@@ -544,7 +557,7 @@ household: 1, 	// домашнее хозяйство, сад, огород, д�
 { 
 	id  			: '2022_06_09_1105', 
 	title 			: 'Помпа', 
-	hash 			: {},
+	hash 			: { car: 1, },
 	manufacturer 	: 'INA', 
 	hash 			: { car: { part: 1, }, },
 	trader 			: { shop: 'kharkiv_losk_2_4', seller: '_maxim_artemovka_losk_2_4', },
@@ -553,7 +566,7 @@ household: 1, 	// домашнее хозяйство, сад, огород, д�
 { 
 	id  			: '2022_06_09_1104', 
 	title 			: 'Ролик', 
-	hash 			: {},
+	hash 			: { car: 1, },
 	manufacturer 	: 'INA', 
 	hash 			: { car: { part: 1, }, },
 	trader 			: { shop: 'kharkiv_losk_2_4', seller: '_maxim_artemovka_losk_2_4', },
@@ -562,7 +575,7 @@ household: 1, 	// домашнее хозяйство, сад, огород, д�
 { 
 	id  			: '2022_06_09_1103', 
 	title 			: 'Ролик ГРМ', 
-	hash 			: {},
+	hash 			: { car: 1, },
 	manufacturer 	: 'INA', 
 	hash 			: { car: { part: 1, }, },
 	trader 			: { shop: 'kharkiv_losk_2_4', seller: '_maxim_artemovka_losk_2_4', },
@@ -571,7 +584,7 @@ household: 1, 	// домашнее хозяйство, сад, огород, д�
 { 
 	id  			: '2022_06_09_1102', 
 	title 			: 'Ремінь клиновий', 
-	hash 			: {},
+	hash 			: { car: 1, },
 	manufacturer 	: 'Gates', 
 	mark 			: '6389 MC',
 	country 		: 'esp',
@@ -583,7 +596,7 @@ household: 1, 	// домашнее хозяйство, сад, огород, д�
 { 
 	id  			: '2022_06_09_1101', 
 	title 			: 'Ремінь полікліновий', 
-	hash 			: {},
+	hash 			: { car: 1, },
 	manufacturer 	: 'Contitech', 
 	mark 			: '6 PK 1153',
 	country 		: 'rou',
@@ -594,7 +607,7 @@ household: 1, 	// домашнее хозяйство, сад, огород, д�
 { 
 	id  			: '2022_06_09_1100', 
 	title 			: 'Ремінь ГРМ', 
-	hash 			: {},
+	hash 			: { car: 1, },
 	manufacturer 	: 'Contitech', 
 	mark 			: 'CT 630. 0433 10022022',
 	country 		: 'deu',
@@ -620,7 +633,7 @@ household: 1, 	// домашнее хозяйство, сад, огород, д�
 { 
 	id  			: '2022_06_07_1200', 
 	title 			: 'Зарядний пристрій', 
-	hash 			: {},
+	hash 			: { car: 1, },
 	manufacturer 	: 'Dnipro-M', 
 	mark 			: 'BC-16',
 	site 			: 'https://dnipro-m.ua/tovar/zaryadnoe-ystroistvo-cb-16s/?tab=description',
@@ -706,7 +719,7 @@ household: 1, 	// домашнее хозяйство, сад, огород, д�
 { 
 	id  			: '2022_05_16_1001', 
 	title 			: 'Каністра пластикова для бензину', 
-	hash 			: {},
+	hash 			: { car: 1, },
 	mark 			: '20 л',
 	trader 			: { shop: 'kharkiv_avtograd', },
 	cost 			: { total: 600, price: 600, item: 1, unit: 'шт', },
@@ -714,7 +727,7 @@ household: 1, 	// домашнее хозяйство, сад, огород, д�
 { 
 	id  			: '2022_05_16_1000', 
 	title 			: 'Лійка пластикова для бензина', 
-	hash 			: {},
+	hash 			: { car: 1, },
 	trader 			: { shop: 'kharkiv_avtograd', },
 	cost 			: { total: 100, price: 100, item: 1, unit: 'шт', },
 },
@@ -730,7 +743,7 @@ household: 1, 	// домашнее хозяйство, сад, огород, д�
 {
 	id 				: '2022_05_04_1105',
 	title 			: 'Ручка дверей',
-	hash 			: {},
+	hash 			: { car: 1, },
 	manufacturer 	: 'Topran',
 	hash 			: { car: { part: 1, }, },
 	trader 			: { shop: 'kharkiv_losk_2_4', seller: '_maxim_artemovka_losk_2_4', },
@@ -740,7 +753,7 @@ household: 1, 	// домашнее хозяйство, сад, огород, д�
 {
 	id 				: '2022_05_04_1104',
 	title 			: 'Ручка дверей',
-	hash 			: {},
+	hash 			: { car: 1, },
 	manufacturer 	: 'Topran',
 	hash 			: { car: { part: 1, }, },
 	trader 			: { shop: 'kharkiv_losk_2_4', seller: '_maxim_artemovka_losk_2_4', },
@@ -750,7 +763,7 @@ household: 1, 	// домашнее хозяйство, сад, огород, д�
 {
 	id 				: '2022_05_04_1103',
 	title 			: 'Ручка дверей',
-	hash 			: {},
+	hash 			: { car: 1, },
 	manufacturer 	: 'Topran',
 	hash 			: { car: { part: 1, }, },
 	trader 			: { shop: 'kharkiv_losk_2_4', seller: '_maxim_artemovka_losk_2_4', },
@@ -760,7 +773,7 @@ household: 1, 	// домашнее хозяйство, сад, огород, д�
 {
 	id 				: '2022_05_04_1102',
 	title 			: 'Рігеля',
-	hash 			: {},
+	hash 			: { car: 1, },
 	manufacturer 	: 'Febi',
 	hash 			: { car: { part: 1, }, },
 	trader 			: { shop: 'kharkiv_losk_2_4', seller: '_maxim_artemovka_losk_2_4', },
@@ -770,7 +783,7 @@ household: 1, 	// домашнее хозяйство, сад, огород, д�
 {
 	id 				: '2022_05_04_1101',
 	title 			: 'Кліпси дверних ручек',
-	hash 			: {},
+	hash 			: { car: 1, },
 	manufacturer 	: 'VAG',
 	hash 			: { car: { part: 1, }, },
 	trader 			: { shop: 'kharkiv_losk_2_4', seller: '_maxim_artemovka_losk_2_4', },
@@ -780,7 +793,7 @@ household: 1, 	// домашнее хозяйство, сад, огород, д�
 {
 	id 				: '2022_04_22_1003',
 	title 			: 'Втулки стабілізатора',
-	hash 			: {},
+	hash 			: { car: 1, },
 	hash 			: { car: { part: 1, }, },
 	trader 			: { shop: 'kharkiv_losk_2_4', seller: '_maxim_artemovka_losk_2_4', },
 	cost 			: { total: 150, price: 75, item: 2, unit: 'шт', },
@@ -789,7 +802,7 @@ household: 1, 	// домашнее хозяйство, сад, огород, д�
 {
 	id 				: '2022_04_22_1002',
 	title 			: 'Гальмівні колодки',
-	hash 			: {},
+	hash 			: { car: 1, },
 	hash 			: { car: { part: 1, }, },
 	trader 			: { shop: 'kharkiv_losk_2_4', seller: '_maxim_artemovka_losk_2_4', },
 	cost 			: { total: 900, price: 450, item: 2, unit: 'шт', },
@@ -798,7 +811,7 @@ household: 1, 	// домашнее хозяйство, сад, огород, д�
 {
 	id 				: '2022_04_22_1001',
 	title 			: 'Стойки-амортизаторы',
-	hash 			: {},
+	hash 			: { car: 1, },
 	manufacturer 	: 'Meyle',
 	hash 			: { car: { part: 1, }, },
 	trader 			: { shop: 'kharkiv_losk_2_4', seller: '_maxim_artemovka_losk_2_4', },
@@ -828,20 +841,20 @@ household: 1, 	// домашнее хозяйство, сад, огород, д�
 {
 	id 				: '2021_12_09_1030',
 	title 			: 'Компресор для колес',
-	hash 			: {},
+	hash 			: { car: 1, },
 	manufacturer 	: 'Winso',
 	trader 			: { shop: 'kharkiv_losk_11_49', },
 },
 {
 	id 				: '2021_12_09_1002',
 	title 			: 'Масляний фільтр',
-	hash 			: {},
+	hash 			: { car: 1, },
 	trader 			: { shop: 'kharkiv_losk_9_97', },
 },
 {
 	id 				: '2021_12_09_1001',
 	title 			: 'Олія моторна',
-	hash 			: {},
+	hash 			: { car: 1, },
 	manufacturer 	: 'Valvoline MaxLife',
 	mark 			: '10w40 Synthetic Technology',
 	trader 			: { shop: 'kharkiv_losk_9_97', },
@@ -851,7 +864,7 @@ household: 1, 	// домашнее хозяйство, сад, огород, д�
 {
 	id 				: '2021_00_00_1206',
 	title 			: 'Провода ВВ (свічні)',
-	hash 			: {},
+	hash 			: { car: 1, },
 	manufacturer 	: 'Beru',
 	mark 			: 'ZEF 561',
 	country 		: 'fra',
@@ -862,13 +875,13 @@ household: 1, 	// домашнее хозяйство, сад, огород, д�
 {
 	id 				: '2021_00_000_1205',
 	title 			: 'Кришка трамблера',
-	hash 			: {},
+	hash 			: { car: 1, },
 	manufacturer 	: 'Metzger',
 },
 {
 	id 				: '2021_00_00_1204',
 	title 			: 'Лямбда-зонд',
-	hash 			: {},
+	hash 			: { car: 1, },
 	manufacturer 	: 'Bosch',
 	code 			: '0 258 005 133',
 	country 		: 'fra',
@@ -878,7 +891,7 @@ household: 1, 	// домашнее хозяйство, сад, огород, д�
 {
 	id 				: '2021_00_00_1203',
 	title 			: 'Патрубок ДМРВ-колектора',
-	hash 			: {},
+	hash 			: { car: 1, },
 	mark 			: 'хобот',
 	trader 			: { shop: 'kharkiv_avtograd', },
 	cost 			: { total: 500, price: 500, item: 1, unit: 'шт', },
@@ -887,7 +900,7 @@ household: 1, 	// домашнее хозяйство, сад, огород, д�
 {
 	id 				: '2021_00_00_1202',
 	title 			: 'ДМРВ',
-	hash 			: {},
+	hash 			: { car: 1, },
 	manufacturer 	: 'Bosch',
 	trader 			: { shop: 'kharkiv_avtograd', },
 	cost 			: { total: 2700, price: 2700, item: 1, unit: 'шт', },
@@ -906,7 +919,7 @@ household: 1, 	// домашнее хозяйство, сад, огород, д�
 { 
 	id  			: '2020_08_10_0900',
 	title 			: 'Котушка запалювання', 
-	hash 			: {},
+	hash 			: { car: 1, },
 	manufacturer 	: 'Bremi', 
 	mark 			: '',
 	hash 			: { car: { parts: 1, }, },
@@ -916,7 +929,7 @@ household: 1, 	// домашнее хозяйство, сад, огород, д�
 { 
 	id  			: '2020_04_18_0900',
 	title 			: 'Відеореєстратор', 
-	hash 			: {},
+	hash 			: { car: 1, },
 	manufacturer 	: 'Xiaomi Yi Smart', 
 	mark 			: 'Dash Camera',
 	hash 			: { car: { }, },
