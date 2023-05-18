@@ -192,6 +192,16 @@ household: 1, 	// домашнее хозяйство, сад, огород, д�
 	cost 			: { total: 135, price: 135, item: 1, unit: 'шт', },
 },
 {
+	id 				: '2023_04_18_1300',
+	title 			: 'Шабельна пила',
+	hash 			: { household: 1, },
+	manufacturer 	: 'Dnipro-M',
+	mark 			: '',
+	trader 			: { shop: 'merefa_dnipro_m', site: 'https://dnipro-m.ua/tovar/sabelnaya-pila-sr-115/?campaignid=17136142487&adgroupid=&targetid=&adid=&network=x&keyword=&gclid=Cj0KCQjwmZejBhC_ARIsAGhCqndlkLZBzSjCdMK964s0F5KjB4-EOGnQ0x23b-p8lpWIP8BtgwqtRI4aAtWdEALw_wcB',  },
+	cost 			: { total: 3800, price: 3800, item: 1, unit: 'шт', },
+	note 			: '',
+},
+{
 	id 				: '2023_04_18_1200',
 	title 			: 'Розподільник запалювання',
 	hash 			: { car: 1, },
