@@ -24,40 +24,38 @@ class ComponentMiddle {
 
 
 
-	static innerHtml( id ) {
+	static showContent( id ) {
 
-		let html = '';
+		let title = objStore[ id ] ? ( objStore[ id ].title ? objStore[ id ].title : 'Немає опису категорії українською... Дивно!' ) : 'Товари без категорії... До речі, як так вийшло?..'; // помилки не має бути
 
+		//alert( id );
+		//console.log( objStore[ id ] );
 
 		//alert( id );
 
+		let html = `<div class="winTitle">${ title }</div>`;
+		arrBuyNeed.forEach( k => {
 
 
-		let num = 1;
-		arrBuyNeed.forEach( ( k, i ) => {
-			if ( k.store[ id ] ) {
+			//console.log( k.hash );
+
+			let hashText = '';
+			for ( let k1 in k.hash  ) 
+				hashText += ' #' + objStore[ k1 ].title;
+
+
+			if ( id == 'all' || k.hash[ id ] ) { 	// дивна умова, але працює так як слід 		// не чіпати!
+
 				html += `<div class="each">
-					<span class="num">${ num++ })</span>
-					<span class="title">${ k.title }</span>
-					<span class="store">// ${ objStore[ id ].title }</span>
+					<div class="title">${ k.title }</div>
+					<div class="store">${ hashText }</div>
 				</div>`;
 			}
 		});
 
 
-
-
-
-
-
-
 		document.getElementById( 'content' ).innerHTML = html;
-
 	}
-
-
-
-
 
 
 

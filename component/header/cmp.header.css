@@ -19,13 +19,20 @@ cmp-header {
 	cmp-header .btn-menu {
 		position: absolute;
 		top: 10px;
-		right: 15px;
-
+		/*right: 15px;
 		/*font-weight: bold;*/
 		/*margin: -6px 0 -20px 0;*/
 		font-size: 40px;
 		cursor: pointer;
 	}
+		cmp-header .btn-menu.bought {
+			right: 55px;
+		}
+
+		cmp-header .btn-menu.need {
+			right: 15px;
+		}
+
 		cmp-header .btn-menu:hover {
 			color: yellow;
 		}
