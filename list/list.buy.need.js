@@ -6,11 +6,10 @@ const arrBuyNeed = [
 
 
 
-
-
-{ id: '2023_06_03_1230', title: 'Диски R15 та шини літні', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
+{ id: '2023_06_05_1900', title: 'Пушсало', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
 { id: '2023_04_01_1202', title: 'Подовжувач для насадок (штанга) <br/>шестигранник для радіатора кондиціонера <br/>долізти в важкодоступні місця в авто', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
 { id: '2023_06_03_1228', title: 'Ручка в набір головок ( яка загубилась )', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
+{ id: '2023_06_03_1230', title: 'Диски R15 та шини літні', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
 { id: '2023_06_03_1223', title: 'Коротка трубка клапана хх, яка йде в впускний колектор', hash: { car: 1, autograd: 1, losk: 1, }, },
 { id: '2023_06_03_1224', title: 'Кінцевики-кнопки відкриття капоту та ляди для сигналізації', hash: { car: 1, autograd: 1, losk: 1, }, },
 { id: '2023_04_07_1848', title: 'Накінечники для дротів 3-4 мм <br/>під обжимку, для з\'єднання-нарощування дротів', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
