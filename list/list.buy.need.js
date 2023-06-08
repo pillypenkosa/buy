@@ -4,7 +4,8 @@ const arrBuyNeed = [
 
 
 
-
+{ id: '2023_06_08_2206', title: 'Паста Теймурова', hash: { pharmacy: 1, }, },
+{ id: '2023_06_08_2205', title: 'Таблетки від головного болю', hash: { pharmacy: 1, }, },
 
 { id: '2023_06_05_1900', title: 'Пушсало', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
 { id: '2023_04_01_1202', title: 'Подовжувач для насадок (штанга) <br/>шестигранник для радіатора кондиціонера <br/>долізти в важкодоступні місця в авто', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
