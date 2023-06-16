@@ -4,6 +4,15 @@ const arrBuyNeed = [
 
 
 
+
+
+{ id: '2023_06_16_2026', title: 'Графіт без меді', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
+{ id: '2023_06_16_2025', title: 'Паста Гої', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
+
+
+
+{ id: '2023_06_13_1815', title: 'Фарба чорна для стелі', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
+
 { id: '2023_06_08_2206', title: 'Паста Теймурова', hash: { pharmacy: 1, }, },
 { id: '2023_06_08_2205', title: 'Таблетки від головного болю', hash: { pharmacy: 1, }, },
 
