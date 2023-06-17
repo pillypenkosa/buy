@@ -5,7 +5,7 @@ const arrBuyNeed = [
 
 
 
-{ id: '2023_06_17_1920', title: 'Роз\єєм для лямбда-зонду', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
+{ id: '2023_06_17_1920', title: 'Роз\'єм для лямбда-зонду', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
 { id: '2023_06_16_2026', title: 'Графіт без меді', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
 { id: '2023_06_16_2025', title: 'Паста Гої', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
 { id: '2023_06_13_1815', title: 'Фарба чорна для стелі', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
