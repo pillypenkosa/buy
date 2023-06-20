@@ -5,11 +5,19 @@ const arrBuyNeed = [
 
 
 
-{ id: '2023_06_17_1920', title: 'Роз\'єм для лямбда-зонду', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
+
+{ id: '2023_06_20_1646', title: 'Замінити картку для ЗП', hash: { bank: 1, }, },
+{ id: '2023_06_20_1645', title: 'Сдать баксы в банк или обменять на новые', hash: { bank: 1, }, },
+{ id: '2023_06_13_1815', title: 'Фарба чорна для стелі, 3 балона без запаху', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
+
+
+
+{ id: '2023_06_08_2206', title: 'Паста Теймурова', hash: { pharmacy: 1, }, },
+
+//{ id: '2023_06_17_1920', title: 'Роз\'єм для лямбда-зонду', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
+{ id: '2023_06_20_1650', title: 'Роз\'єм VAG для лямбда-зонду', hash: { car: 1, autograd: 1, losk: 1, }, },
 { id: '2023_06_16_2026', title: 'Графіт без меді', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
 { id: '2023_06_16_2025', title: 'Паста Гої', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
-{ id: '2023_06_13_1815', title: 'Фарба чорна для стелі', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
-{ id: '2023_06_08_2206', title: 'Паста Теймурова', hash: { pharmacy: 1, }, },
 { id: '2023_06_08_2205', title: 'Таблетки від головного болю', hash: { pharmacy: 1, }, },
 { id: '2023_06_05_1900', title: 'Пушсало', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
 { id: '2023_04_01_1202', title: 'Подовжувач для насадок (штанга) <br/>шестигранник для радіатора кондиціонера <br/>долізти в важкодоступні місця в авто', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
@@ -87,6 +95,7 @@ const arrBuyNeedStore = [
 	{ id: 'food' 			, title: 'Продукти' 		, },
 	{ id: 'atb' 			, title: 'АТБ'				, },
 	{ id: 'rost' 			, title: 'Рост'				, },
+	{ id: 'bank' 			, title: 'Банк' 			, },
 	{ id: 'pc' 				, title: 'PC' 				, },
 	{ id: 'home' 			, title: 'Дім' 				, },
 	{ id: 'household' 		, title: 'Господарство' 	, },
