@@ -5,7 +5,21 @@ const arrBuyNeed = [
 
 
 
-{ id: '2023_06_22_1930', title: 'Кримпер SN-48B // для обтискання пінів', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
+
+
+
+
+
+
+
+
+{ id: '2023_07_02_1950', title: 'DJ211 B 3.9 мм, конектори-з\'єднувачі дротів (папа, мама) круглі з ізоляцією на ЦЗ', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
+{ id: '2023_07_02_1954', title: 'Крокодили-зажими для дротів', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
+{ id: '2023_07_02_1953', title: 'Дроти автопроводки, чорні, червоні та ін.кольорів // 1.0 мм<sup>2</sup>, 1.5 мм<sup>2</sup>', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
+{ id: '2023_07_02_1952', title: 'Хомути пластикові манікюрні', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
+{ id: '2023_07_02_1951', title: 'Ізолента тряпічна, антіскрип', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
+
+//{ id: '2023_06_22_1930', title: 'Кримпер SN-48B // для обтискання пінів', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
 
 { id: '2023_04_01_1202', title: 'Подовжувач для насадок (штанга) <br/>шестигранник для радіатора кондиціонера <br/>долізти в важкодоступні місця в авто', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
 { id: '2023_06_22_1921', title: 'Викрутка-шестигранник, або біти-шестигранники, або набор', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
