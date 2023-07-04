@@ -6,11 +6,7 @@ const arrBuyNeed = [
 
 
 
-
-
-
-
-
+{ id: '2023_07_04_1905', title: 'Антенные папа/мама и один папа-переход на магнитоле', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
 
 
 { id: '2023_07_02_1950', title: 'DJ211 B 3.9 мм, конектори-з\'єднувачі дротів (папа, мама) круглі з ізоляцією на ЦЗ', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
