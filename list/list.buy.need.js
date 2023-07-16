@@ -4,7 +4,7 @@ const arrBuyNeed = [
 
 
 { id: '2023_07_07_2151', title: 'Дроти 1 мм2 по 1 м кожний, червоний, чорний, коричневий, білий', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
-{ id: '2023_07_07_2150', title: 'Роз\'єм на блок керування ЦЗ, GS-303 або PCI-E', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
+{ id: '2023_07_07_2150', title: 'Роз\'єм на блок керування ЦЗ, GS-303 або ATX 6 Pin PCI-E', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
 { id: '2023_07_02_1950', title: 'DJ211 B 3.5 мм, конектори-з\'єднувачі дротів (папа, мама) круглі з ізоляцією на ЦЗ ( в Fantom CL-480 маленькі, як 3.5)', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
 
 
