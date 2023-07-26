@@ -3,19 +3,25 @@ const arrBuyNeed = [
 
 
 
-{ id: '2023_07_07_2151', title: 'Дроти 1 мм2 по 1 м кожний, червоний, чорний, коричневий, білий', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
+
+{ id: '2023_07_26_2030', title: 'Цемент', hash: { househol: 1, barabashovo: 1, market: 1, }, },
+{ id: '2023_07_26_2025', title: 'Щітка кругла для болгарки, шліфування підлоги 2-3 шт', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
+
+
+
+//{ id: '2023_07_07_2151', title: 'Дроти 1 мм2 по 1 м кожний, червоний, чорний, коричневий, білий', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
 { id: '2023_07_07_2150', title: 'Роз\'єм на блок керування ЦЗ, GS-303 або ATX 6 Pin PCI-E', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
-{ id: '2023_07_02_1950', title: 'DJ211 B 3.5 мм, конектори-з\'єднувачі дротів (папа, мама) круглі з ізоляцією на ЦЗ ( в Fantom CL-480 маленькі, як 3.5)', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
+//{ id: '2023_07_02_1950', title: 'DJ211 B 3.5 мм, конектори-з\'єднувачі дротів (папа, мама) круглі з ізоляцією на ЦЗ ( в Fantom CL-480 маленькі, як 3.5)', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
 
 
 //{ id: '2023_07_04_1905', title: 'Антенные папа/мама и один папа-переход на магнитоле', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
 
 
 //{ id: '2023_07_02_1950', title: 'DJ211 B 3.9 мм, конектори-з\'єднувачі дротів (папа, мама) круглі з ізоляцією на ЦЗ', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
-{ id: '2023_07_02_1954', title: 'Крокодили-зажими для дротів', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
-{ id: '2023_07_02_1953', title: 'Дроти автопроводки, чорні, червоні та ін.кольорів // 1.0 мм<sup>2</sup>, 1.5 мм<sup>2</sup>', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
-{ id: '2023_07_02_1952', title: 'Хомути пластикові манікюрні', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
-{ id: '2023_07_02_1951', title: 'Ізолента тряпічна, антіскрип', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
+//{ id: '2023_07_02_1954', title: 'Крокодили-зажими для дротів', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
+//{ id: '2023_07_02_1953', title: 'Дроти автопроводки, чорні, червоні та ін.кольорів // 1.0 мм<sup>2</sup>, 1.5 мм<sup>2</sup>', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
+//{ id: '2023_07_02_1952', title: 'Хомути пластикові манікюрні', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
+//{ id: '2023_07_02_1951', title: 'Ізолента тряпічна, антіскрип', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
 
 //{ id: '2023_06_22_1930', title: 'Кримпер SN-48B // для обтискання пінів', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
 
