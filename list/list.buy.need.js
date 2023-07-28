@@ -3,14 +3,15 @@ const arrBuyNeed = [
 
 
 
+{ id: '2023_07_07_2150', title: 'Роз\'єм на блок керування ЦЗ, GS-303 або ATX 6 Pin PCI-E', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
+{ id: '2023_06_03_1231', title: '2 кліпси під гвинт 4*20 VAG на центральний повітряпровід та на магнітолу', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
 
-{ id: '2023_07_26_2030', title: 'Цемент', hash: { househol: 1, barabashovo: 1, market: 1, }, },
-{ id: '2023_07_26_2025', title: 'Щітка кругла для болгарки, шліфування підлоги 2-3 шт', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
+//{ id: '2023_07_26_2030', title: 'Цемент', hash: { household: 1, barabashovo: 1, market: 1, }, },
+//{ id: '2023_07_26_2025', title: 'Щітка кругла для болгарки, шліфування підлоги 2-3 шт', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
 
 
 
 //{ id: '2023_07_07_2151', title: 'Дроти 1 мм2 по 1 м кожний, червоний, чорний, коричневий, білий', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
-{ id: '2023_07_07_2150', title: 'Роз\'єм на блок керування ЦЗ, GS-303 або ATX 6 Pin PCI-E', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
 //{ id: '2023_07_02_1950', title: 'DJ211 B 3.5 мм, конектори-з\'єднувачі дротів (папа, мама) круглі з ізоляцією на ЦЗ ( в Fantom CL-480 маленькі, як 3.5)', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
 
 
@@ -25,9 +26,9 @@ const arrBuyNeed = [
 
 //{ id: '2023_06_22_1930', title: 'Кримпер SN-48B // для обтискання пінів', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
 
-{ id: '2023_04_01_1202', title: 'Подовжувач для насадок (штанга) <br/>шестигранник для радіатора кондиціонера <br/>долізти в важкодоступні місця в авто', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
-{ id: '2023_06_22_1921', title: 'Викрутка-шестигранник, або біти-шестигранники, або набор', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
-{ id: '2023_06_22_1920', title: 'Трещотка', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
+//{ id: '2023_04_01_1202', title: 'Подовжувач для насадок (штанга) <br/>шестигранник для радіатора кондиціонера <br/>долізти в важкодоступні місця в авто', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
+//{ id: '2023_06_22_1921', title: 'Викрутка-шестигранник, або біти-шестигранники, або набор', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
+//{ id: '2023_06_22_1920', title: 'Трещотка', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
 
 
 //{ id: '2023_06_20_1646', title: 'Замінити картку для ЗП', hash: { bank: 1, }, },
@@ -41,14 +42,13 @@ const arrBuyNeed = [
 { id: '2023_06_16_2026', title: 'Графіт без меді', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
 { id: '2023_06_16_2025', title: 'Паста Гої', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
 //{ id: '2023_06_08_2205', title: 'Таблетки від головного болю', hash: { pharmacy: 1, }, },
-{ id: '2023_06_05_1900', title: 'Пушсало', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
+//{ id: '2023_06_05_1900', title: 'Пушсало', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
 { id: '2023_06_03_1228', title: 'Ручка в набір головок ( яка загубилась )', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
 { id: '2023_06_03_1230', title: 'Диски R15 та шини літні', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
 { id: '2023_06_03_1223', title: 'Коротка трубка клапана хх, яка йде в впускний колектор', hash: { car: 1, autograd: 1, losk: 1, }, },
 { id: '2023_06_03_1224', title: 'Кінцевики-кнопки відкриття капоту та ляди для сигналізації', hash: { car: 1, autograd: 1, losk: 1, }, },
 //{ id: '2023_04_07_1848', title: 'Накінечники для дротів 3-4 мм <br/>під обжимку, для з\'єднання-нарощування дротів', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
 //{ id: '2023_04_07_1732', title: 'Разъем VAG <br/>3-контактный на катушку', hash: { car: 1, autograd: 1, losk: 1, }, },
-{ id: '2023_06_03_1231', title: '2 кліпси під гвинт 4*20 VAG на центральний повітряпровід та на магнітолу', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
 { id: '2023_04_07_1911', title: 'Автомобільні дроти <br/>0.5, 1, 1.5 мм // різних кольорів', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
 //{ id: '2023_04_07_1910', title: 'Піни та резинові втулки для роз\'ємів', hash: { car: 1, autograd: 1, losk: 1, }, },
 //{ id: '2023_04_07_1733', title: 'Олія моторна 5л <br/> Aral Blue Tronic 10w40, ACEA A3/B4, API SN, VW 501.01/505.00', hash: { car: 1, autograd: 1, losk: 1, }, },
@@ -65,13 +65,11 @@ const arrBuyNeed = [
 
 
 
-//{ id: '2023_06_03_1251', title: 'Телевізор на кухню', hash: { home: 1, }, },
-
-
+{ id: '2023_06_03_1251', title: 'Телевізор на кухню', hash: { home: 1, }, },
 
 { id: '2023_06_03_1115', title: 'Замок кодовий на хвіртку', hash: { household: 1, barabashovo: 1, market: 1, }, },
 { id: '2023_06_03_1211', title: 'Вимикач світла для гаража', hash: { household: 1, barabashovo: 1, market: 1, }, },
-{ id: '2023_06_03_1210', title: 'Плівка на гараж', hash: { household: 1, barabashovo: 1, market: 1, }, },
+//{ id: '2023_06_03_1210', title: 'Плівка на гараж', hash: { household: 1, barabashovo: 1, market: 1, }, },
 { id: '2023_06_03_1232', title: '2 труби 3/4-різьба та 2 згонки (втулки мама-мама) для перехода з крана на цю трубу <br/>для насоса опалення біля котла', hash: { household: 1, barabashovo: 1, market: 1, }, },
 
 
