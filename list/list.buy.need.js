@@ -5,11 +5,12 @@ const arrBuyNeed = [
 
 
 
+{ id: '2023_07_31_2120', title: 'Піноізол тонкий 8 мм для підлоги авто ', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, household: 1, }, },
 
-{ id: '2023_07_30_0931', title: 'Риб\'ячий жир', hash: { atb: 1, }, },
-{ id: '2023_07_30_0930', title: 'Кальцій', hash: { atb: 1, }, },
+//{ id: '2023_07_30_0931', title: 'Риб\'ячий жир', hash: { atb: 1, }, },
+//{ id: '2023_07_30_0930', title: 'Кальцій', hash: { atb: 1, }, },
 
-{ id: '2023_07_28_1840', title: 'Піноізол для підлоги авто (наповнювач-прокладка)', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, household: 1, }, },
+//{ id: '2023_07_28_1840', title: 'Піноізол для підлоги авто (наповнювач-прокладка)', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, household: 1, }, },
 
 { id: '2023_07_07_2150', title: 'Роз\'єм на блок керування ЦЗ, GS-303 або ATX 6 Pin PCI-E', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
 { id: '2023_06_03_1231', title: '2 кліпси під гвинт 4*20 VAG на центральний повітряпровід та на магнітолу', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
