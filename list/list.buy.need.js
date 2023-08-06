@@ -5,7 +5,8 @@ const arrBuyNeed = [
 
 
 
-{ id: '2023_07_31_2120', title: 'Піноізол тонкий 8 мм для підлоги авто ', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, household: 1, }, },
+{ id: '2023_08_06_1130', title: 'Піноізол подвійний для авто на підлогу', hash: { car: 1, epicentr: 1, newline: 1, }, },
+//{ id: '2023_07_31_2120', title: 'Піноізол тонкий 8 мм для підлоги авто ', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, household: 1, }, },
 
 //{ id: '2023_07_30_0931', title: 'Риб\'ячий жир', hash: { atb: 1, }, },
 //{ id: '2023_07_30_0930', title: 'Кальцій', hash: { atb: 1, }, },
@@ -123,6 +124,8 @@ const arrBuyNeedStore = [
 	{ id: 'food' 			, title: 'Продукти' 		, },
 	{ id: 'atb' 			, title: 'АТБ'				, },
 	{ id: 'rost' 			, title: 'Рост'				, },
+	{ id: 'epicentr' 		, title: 'Епіцентр'			, },
+	{ id: 'newline' 		, title: 'Нова Лінія'		, },
 	{ id: 'bank' 			, title: 'Банк' 			, },
 	{ id: 'pc' 				, title: 'PC' 				, },
 	{ id: 'home' 			, title: 'Дім' 				, },
