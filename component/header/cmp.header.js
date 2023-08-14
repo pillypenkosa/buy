@@ -22,7 +22,7 @@ class ComponentHeader {
 
 
 		let innerHTML = `
-			<div class="title">${ appProjectName }</div>
+			<div id="appHeaderTitle" class="title">${ appProjectName }</div>
 			<div class="btn-menu bought" onclick="ComponentHeader.clcMenuBought()">&#8650;</div>
 			<div class="btn-menu need" onclick="ComponentHeader.clcMenuNeed()">&#8801;</div>
 			<div class="nav"></div>
@@ -45,10 +45,23 @@ class ComponentHeader {
 
 
 
+
+
 	// відображення меню Придбано
 	static clcMenuBought() {
-		alert();
+		//alert();
 
+		// очищення меню категорій магазинів
+		document.querySelectorAll( 'cmp-header .nav' )[ 0 ].innerHTML = '';
+
+
+
+
+		document.getElementById( 'content' ).innerHTML = '';
+		appHeaderTitle.innerHTML = 'Bought';
+
+
+		ComponentMiddle.showBought();
 	}
 
 
@@ -56,9 +69,13 @@ class ComponentHeader {
 
 
 	// відображення меню Need
-	static  clcMenuNeed() {
+	static clcMenuNeed() {
 
 		//alert();
+
+		document.getElementById( 'content' ).innerHTML = '';
+		appHeaderTitle.innerHTML = 'Need to buy';
+
 
 		let content = document.querySelectorAll( 'cmp-header .nav' )[ 0 ];
 

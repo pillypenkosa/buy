@@ -24,18 +24,17 @@ class ComponentMiddle {
 
 
 
+	// buyNeed
 	static showContent( id ) {
 
 		let title = objStore[ id ] ? ( objStore[ id ].title ? objStore[ id ].title : 'Немає опису категорії українською... Дивно!' ) : 'Товари без категорії... До речі, як так вийшло?..'; // помилки не має бути
 
 		//alert( id );
 		//console.log( objStore[ id ] );
-
 		//alert( id );
 
 		let html = `<div class="winTitle">${ title }</div>`;
 		arrBuyNeed.forEach( k => {
-
 
 			//console.log( k.hash );
 
@@ -53,9 +52,43 @@ class ComponentMiddle {
 			}
 		});
 
+		document.getElementById( 'content' ).innerHTML = html;
+	}
+
+
+
+	// buy
+	static showBought() {
+
+		//alert( 'ComponentMiddle.showBought()' );
+
+		let html = '';
+		arrBuy.forEach( k => {
+
+			let hashText = '';
+			for ( let k1 in k.hash  ) 
+				hashText += ' #' +  k1;
+
+
+			html += `<div class="each">
+				<div class="id">${ k.id }</div>
+
+				<div class="title">${ k.title }</div>
+				<div class="mark">${ k.manufacturer } ${ k.mark }</div>
+				<div class="total">${ k.cost ? ( k.cost.total ? k.cost.total + ' грн' : '' ) : '' }</div>
+
+				<div class="store">${ hashText }</div>
+			</div>`;
+
+		});
 
 		document.getElementById( 'content' ).innerHTML = html;
 	}
+
+
+
+
+
 
 
 

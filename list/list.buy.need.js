@@ -5,7 +5,18 @@ const arrBuyNeed = [
 
 
 
-{ id: '2023_08_06_1130', title: 'Піноізол подвійний для авто на підлогу', hash: { car: 1, epicentr: 1, newline: 1, }, },
+
+
+{ id: '2023_08_14_1203', title: 'Перехідник з малої викрутки на головку під трещотку', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
+{ id: '2023_08_14_1202', title: 'Кліпси для пластику над дверями. VAG 357867300A 357867300 333867300', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
+{ id: '2023_08_14_1201', title: 'Паста Теймурова', hash: { pharmacy: 1, }, },
+{ id: '2023_08_14_1200', title: 'Стаканчик з кришкою для бульйона', hash: { barabashovo: 1, market: 1, atb: 1, rost: 1, epicentr: 1, newline: 1, home: 1, }, },
+
+
+
+
+
+//{ id: '2023_08_06_1130', title: 'Піноізол подвійний для авто на підлогу', hash: { car: 1, epicentr: 1, newline: 1, }, },
 //{ id: '2023_07_31_2120', title: 'Піноізол тонкий 8 мм для підлоги авто ', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, household: 1, }, },
 
 //{ id: '2023_07_30_0931', title: 'Риб\'ячий жир', hash: { atb: 1, }, },
@@ -45,7 +56,6 @@ const arrBuyNeed = [
 //{ id: '2023_06_20_1645', title: 'Сдать баксы в банк или обменять на новые', hash: { bank: 1, }, },
 //{ id: '2023_06_13_1815', title: 'Фарба чорна для стелі, 3 балона без запаху', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
 
-//{ id: '2023_06_08_2206', title: 'Паста Теймурова', hash: { pharmacy: 1, }, },
 
 //{ id: '2023_06_17_1920', title: 'Роз\'єм для лямбда-зонду', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
 { id: '2023_06_20_1650', title: 'Роз\'єм VAG для лямбда-зонду', hash: { car: 1, autograd: 1, losk: 1, }, },
@@ -125,7 +135,7 @@ const arrBuyNeedStore = [
 	{ id: 'atb' 			, title: 'АТБ'				, },
 	{ id: 'rost' 			, title: 'Рост'				, },
 	{ id: 'epicentr' 		, title: 'Епіцентр'			, },
-	{ id: 'newline' 		, title: 'Нова Лінія'		, },
+	{ id: 'newline' 		, title: 'НоваЛінія'		, },
 	{ id: 'bank' 			, title: 'Банк' 			, },
 	{ id: 'pc' 				, title: 'PC' 				, },
 	{ id: 'home' 			, title: 'Дім' 				, },
