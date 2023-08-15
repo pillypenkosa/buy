@@ -241,7 +241,7 @@ household: 1, 	// домашнее хозяйство, сад, огород, д�
 {
 	id 				: '2023_04_28_1400',
 	title 			: 'Очисник контактів',
-	hash 			: { chemical: 1, electro: 1, },
+	hash 			: { car: 1, chemical: 1, electro: 1, },
 	manufacturer 	: 'Xado',
 	mark 			: 'Verylube',
 	trader 			: { site: 'https://xado.com/avtomobilnaya-himiya/ochistiteli-razlichnih-sistem-avtomobilya/ochistitel-kontaktov-s-effektom-udaleniya-vlagi', },

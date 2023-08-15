@@ -66,8 +66,13 @@ class ComponentMiddle {
 		arrBuy.forEach( k => {
 
 			let hashText = '';
-			for ( let k1 in k.hash  ) 
-				hashText += ' #' +  k1;
+			for ( let k1 in k.hash  ) {
+				if ( objStoreCat[ k1 ] ) {
+
+					if ( objStoreCat[ k1 ].title ) 
+						hashText += ' #' + objStoreCat[ k1 ].title;
+				}
+			}
 
 
 			html += `<div class="each">
