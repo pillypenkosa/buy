@@ -27,7 +27,8 @@ class ComponentMiddle {
 	// buyNeed
 	static showContent( id ) {
 
-		let title = objStore[ id ] ? ( objStore[ id ].title ? objStore[ id ].title : 'Немає опису категорії українською... Дивно!' ) : 'Товари без категорії... До речі, як так вийшло?..'; // помилки не має бути
+		let title = objStoreCat[ id ] ? ( objStoreCat[ id ].title ? objStoreCat[ id ].title : 'Немає опису категорії українською... Дивно!' ) : ( id == 'all' ? 'Усі товари' : 'Товари без категорії... До речі, як так вийшло?..' ); // помилки не має бути
+		//let title = '555777';
 
 		//alert( id );
 		//console.log( objStore[ id ] );
@@ -40,8 +41,7 @@ class ComponentMiddle {
 
 			let hashText = '';
 			for ( let k1 in k.hash  ) 
-				hashText += ' #' + objStore[ k1 ].title;
-
+				hashText += ' #' + objStoreCat[ k1 ].title;
 
 			if ( id == 'all' || k.hash[ id ] ) { 	// дивна умова, але працює так як слід 		// не чіпати!
 

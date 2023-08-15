@@ -87,7 +87,7 @@ household: 1, 	// домашнее хозяйство, сад, огород, д�
 {
 	id 				: '2023_08_04_1500',
 	title 			: 'Крісло офісне',
-	hash 			: { car: 1, },
+	hash 			: { home: 1, furniture: 1, },
 	manufacturer 	: 'Новий стиль',
 	mark 			: 'BOSS KD TILT PL64 (CH) ECO-30',
 	trader 			: { shop: 'kharkiv_epicentr_1', },
