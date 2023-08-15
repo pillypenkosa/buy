@@ -13,6 +13,7 @@ const dependences = {
 
 	listApp: [ 		// list/list. ${ k } .js
 
+		//'store.cat',
 		'buy',
 		'buy.need',
 	],

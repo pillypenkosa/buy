@@ -118,8 +118,18 @@ const arrBuyNeed = [
 
 
 
+let objBuyNeed = {};
+arrBuyNeed.forEach( k => {
+	objBuyNeed[ k.id ] = k;
+});
 
 
+
+
+
+
+
+/*
 
 const arrBuyNeedStore = [
 
@@ -155,15 +165,8 @@ arrBuyNeedStore.forEach( k => {
 	objStore[ k.id ] = k;
 });
 
+*/
 
-
-
-
-
-let objBuyNeed = {};
-arrBuyNeed.forEach( k => {
-	objBuyNeed[ k.id ] = k;
-});
 
 
 
