@@ -7,10 +7,10 @@ const arrBuyNeed = [
 
 
 
-{ id: '2023_08_14_1203', title: 'Перехідник з малої викрутки на головку під трещотку', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
+{ id: '2023_08_14_1203', title: 'Перехідник з малої викрутки на головку під трещотку', hash: { tool: 1, car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
 { id: '2023_08_14_1202', title: 'Кліпси для пластику над дверями. VAG 357867300A 357867300 333867300', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
 { id: '2023_08_14_1201', title: 'Паста Теймурова', hash: { pharmacy: 1, }, },
-{ id: '2023_08_14_1200', title: 'Стаканчик з кришкою для бульйона', hash: { barabashovo: 1, market: 1, atb: 1, rost: 1, epicentr: 1, newline: 1, home: 1, }, },
+{ id: '2023_08_14_1200', title: 'Стаканчик з кришкою для бульйона', hash: { dishes: 1, barabashovo: 1, market: 1, atb: 1, rost: 1, epicentr: 1, newline: 1, home: 1, }, },
 
 
 
@@ -63,7 +63,7 @@ const arrBuyNeed = [
 { id: '2023_06_16_2025', title: 'Паста Гої', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
 //{ id: '2023_06_08_2205', title: 'Таблетки від головного болю', hash: { pharmacy: 1, }, },
 //{ id: '2023_06_05_1900', title: 'Пушсало', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
-{ id: '2023_06_03_1228', title: 'Ручка в набір головок ( яка загубилась )', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
+{ id: '2023_06_03_1228', title: 'Ручка в набір головок ( яка загубилась )', hash: { tool: 1, car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
 { id: '2023_06_03_1230', title: 'Диски R15 та шини літні', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
 { id: '2023_06_03_1223', title: 'Коротка трубка клапана хх, яка йде в впускний колектор', hash: { car: 1, autograd: 1, losk: 1, }, },
 { id: '2023_06_03_1224', title: 'Кінцевики-кнопки відкриття капоту та ляди для сигналізації', hash: { car: 1, autograd: 1, losk: 1, }, },
@@ -74,7 +74,7 @@ const arrBuyNeed = [
 //{ id: '2023_04_07_1733', title: 'Олія моторна 5л <br/> Aral Blue Tronic 10w40, ACEA A3/B4, API SN, VW 501.01/505.00', hash: { car: 1, autograd: 1, losk: 1, }, },
 { id: '2023_04_07_1804', title: 'Свічки запалювання <br/>Denso К20ТТ', hash: { car: 1, autograd: 1, losk: 1, }, },
 { id: '2023_04_01_1200', title: 'Пружини на зад <br/>на універсал, а НЕ седан', hash: { car: 1, autograd: 1, losk: 1, }, },
-{ id: '2023_04_01_1203', title: 'Ключ на 24 для керма <br/>трубка або головка', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
+{ id: '2023_04_01_1203', title: 'Ключ на 24 для керма <br/>трубка або головка', hash: { tool: 1, car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
 { id: '2023_04_01_1204', title: 'Рукоятка на перемикач КПП', hash: { car: 1, autograd: 1, losk: 1, }, },
 { id: '2023_04_01_1205', title: 'Ручка на ручник <br/>оригінал для B4', hash: { car: 1, autograd: 1, losk: 1, }, },
 { id: '2023_04_01_1206', title: 'Роз\'єми пластикові <br/>для з\'єднання дротів', hash: { car: 1, autograd: 1, losk: 1, }, },
