@@ -8,9 +8,18 @@ const arrBuyNeed = [
 
 
 { id: '2023_08_14_1203', title: 'Перехідник з малої викрутки на головку під трещотку', hash: { tool: 1, car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
-{ id: '2023_08_14_1202', title: 'Кліпси для пластику над дверями. VAG 357867300A 357867300 333867300', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
-{ id: '2023_08_14_1201', title: 'Паста Теймурова', hash: { pharmacy: 1, }, },
-{ id: '2023_08_14_1200', title: 'Стаканчик з кришкою для бульйона', hash: { dishes: 1, barabashovo: 1, market: 1, atb: 1, rost: 1, epicentr: 1, newline: 1, home: 1, }, },
+{ id: '2023_06_03_1231', title: '2 кліпси під гвинт 4*20 VAG на центральний повітряпровід та на магнітолу', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
+{ id: '2023_07_07_2150', title: 'Роз\'єм на блок керування ЦЗ, GS-303 або ATX 6 Pin PCI-E', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
+
+{ id: '2023_06_20_1650', title: 'Роз\'єм VAG для лямбда-зонду', hash: { car: 1, autograd: 1, losk: 1, }, },
+
+{ id: '2023_04_01_1208', title: 'Пробка-втулка для кріплення трикутного декоративного пластику на дверцятах біля скла (дзеркала)', hash: { car: 1, autograd: 1, losk: 1, }, },
+
+{ id: '2023_04_01_1209', title: 'Болти на 6 з лівою різьбою <br/>на ручки дверей', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
+
+//{ id: '2023_08_14_1202', title: 'Кліпси для пластику над дверями. VAG 357867300A 357867300 333867300', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
+//{ id: '2023_08_14_1201', title: 'Паста Теймурова', hash: { pharmacy: 1, }, },
+//{ id: '2023_08_14_1200', title: 'Стаканчик з кришкою для бульйона', hash: { dishes: 1, barabashovo: 1, market: 1, atb: 1, rost: 1, epicentr: 1, newline: 1, home: 1, }, },
 
 
 
@@ -24,8 +33,6 @@ const arrBuyNeed = [
 
 //{ id: '2023_07_28_1840', title: 'Піноізол для підлоги авто (наповнювач-прокладка)', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, household: 1, }, },
 
-{ id: '2023_07_07_2150', title: 'Роз\'єм на блок керування ЦЗ, GS-303 або ATX 6 Pin PCI-E', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
-{ id: '2023_06_03_1231', title: '2 кліпси під гвинт 4*20 VAG на центральний повітряпровід та на магнітолу', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
 
 //{ id: '2023_07_26_2030', title: 'Цемент', hash: { household: 1, barabashovo: 1, market: 1, }, },
 //{ id: '2023_07_26_2025', title: 'Щітка кругла для болгарки, шліфування підлоги 2-3 шт', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
@@ -58,7 +65,6 @@ const arrBuyNeed = [
 
 
 //{ id: '2023_06_17_1920', title: 'Роз\'єм для лямбда-зонду', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
-{ id: '2023_06_20_1650', title: 'Роз\'єм VAG для лямбда-зонду', hash: { car: 1, autograd: 1, losk: 1, }, },
 { id: '2023_06_16_2026', title: 'Графіт без меді', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
 { id: '2023_06_16_2025', title: 'Паста Гої', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
 //{ id: '2023_06_08_2205', title: 'Таблетки від головного болю', hash: { pharmacy: 1, }, },
@@ -69,19 +75,17 @@ const arrBuyNeed = [
 { id: '2023_06_03_1224', title: 'Кінцевики-кнопки відкриття капоту та ляди для сигналізації', hash: { car: 1, autograd: 1, losk: 1, }, },
 //{ id: '2023_04_07_1848', title: 'Накінечники для дротів 3-4 мм <br/>під обжимку, для з\'єднання-нарощування дротів', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
 //{ id: '2023_04_07_1732', title: 'Разъем VAG <br/>3-контактный на катушку', hash: { car: 1, autograd: 1, losk: 1, }, },
-{ id: '2023_04_07_1911', title: 'Автомобільні дроти <br/>0.5, 1, 1.5 мм // різних кольорів', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
+//{ id: '2023_04_07_1911', title: 'Автомобільні дроти <br/>0.5, 1, 1.5 мм // різних кольорів', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
 //{ id: '2023_04_07_1910', title: 'Піни та резинові втулки для роз\'ємів', hash: { car: 1, autograd: 1, losk: 1, }, },
 //{ id: '2023_04_07_1733', title: 'Олія моторна 5л <br/> Aral Blue Tronic 10w40, ACEA A3/B4, API SN, VW 501.01/505.00', hash: { car: 1, autograd: 1, losk: 1, }, },
 { id: '2023_04_07_1804', title: 'Свічки запалювання <br/>Denso К20ТТ', hash: { car: 1, autograd: 1, losk: 1, }, },
 { id: '2023_04_01_1200', title: 'Пружини на зад <br/>на універсал, а НЕ седан', hash: { car: 1, autograd: 1, losk: 1, }, },
 { id: '2023_04_01_1203', title: 'Ключ на 24 для керма <br/>трубка або головка', hash: { tool: 1, car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
 { id: '2023_04_01_1204', title: 'Рукоятка на перемикач КПП', hash: { car: 1, autograd: 1, losk: 1, }, },
-{ id: '2023_04_01_1205', title: 'Ручка на ручник <br/>оригінал для B4', hash: { car: 1, autograd: 1, losk: 1, }, },
-{ id: '2023_04_01_1206', title: 'Роз\'єми пластикові <br/>для з\'єднання дротів', hash: { car: 1, autograd: 1, losk: 1, }, },
+//{ id: '2023_04_01_1205', title: 'Ручка на ручник <br/>оригінал для B4', hash: { car: 1, autograd: 1, losk: 1, }, },
+//{ id: '2023_04_01_1206', title: 'Роз\'єми пластикові <br/>для з\'єднання дротів', hash: { car: 1, autograd: 1, losk: 1, }, },
 //{ id: '2023_04_01_1206', title: 'Роз\'єм-розетка дверна для колонок <br/>оригінал для B4', hash: { car: 1, autograd: 1, losk: 1, }, },
-{ id: '2023_04_01_1208', title: 'Пробка-втулка для кріплення трикутного декоративного пластику на дверцятах біля скла (дзеркала)', hash: { car: 1, autograd: 1, losk: 1, }, },
 { id: '2023_04_07_1913', title: 'Килимки на підлогу', hash: { car: 1, autograd: 1, losk: 1, }, },
-{ id: '2023_04_01_1209', title: 'Болти на 6 з лівою різьбою <br/>на ручки дверей', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
 
 
 
@@ -122,50 +126,6 @@ let objBuyNeed = {};
 arrBuyNeed.forEach( k => {
 	objBuyNeed[ k.id ] = k;
 });
-
-
-
-
-
-
-
-/*
-
-const arrBuyNeedStore = [
-
-
-	{ id: 'all' 			, title: 'Усі'				, },
-	{ id: 'pharmacy' 		, title: 'Аптека'			, },
-	{ id: 'car' 			, title: 'Авто' 			, },
-	{ id: 'autograd' 		, title: 'Автоград' 		, },
-	{ id: 'losk' 			, title: 'Лоск' 			, },
-	{ id: 'barabashovo' 	, title: 'Барабан' 			, },
-	{ id: 'market' 			, title: 'Ц.Ринок'			, },
-	{ id: 'food' 			, title: 'Продукти' 		, },
-	{ id: 'atb' 			, title: 'АТБ'				, },
-	{ id: 'rost' 			, title: 'Рост'				, },
-	{ id: 'epicentr' 		, title: 'Епіцентр'			, },
-	{ id: 'newline' 		, title: 'НоваЛінія'		, },
-	{ id: 'bank' 			, title: 'Банк' 			, },
-	{ id: 'pc' 				, title: 'PC' 				, },
-	{ id: 'home' 			, title: 'Дім' 				, },
-	{ id: 'household' 		, title: 'Господарство' 	, },
-
-
-];
-
-
-
-
-
-
-
-let objStore = {};
-arrBuyNeedStore.forEach( k => {
-	objStore[ k.id ] = k;
-});
-
-*/
 
 
 
