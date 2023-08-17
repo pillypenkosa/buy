@@ -7,8 +7,8 @@ const arrBuyNeed = [
 
 
 
-{ id: '2023_08_14_1203', title: 'Перехідник з малої викрутки на головку під трещотку', hash: { tool: 1, car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
-{ id: '2023_06_03_1231', title: '2 кліпси під гвинт 4*20 VAG на центральний повітряпровід та на магнітолу', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
+//{ id: '2023_08_14_1203', title: 'Перехідник з малої викрутки на головку під трещотку', hash: { tool: 1, car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
+//{ id: '2023_06_03_1231', title: '2 кліпси під гвинт 4*20 VAG на центральний повітряпровід та на магнітолу', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
 { id: '2023_07_07_2150', title: 'Роз\'єм на блок керування ЦЗ, GS-303 або ATX 6 Pin PCI-E', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
 
 { id: '2023_06_20_1650', title: 'Роз\'єм VAG для лямбда-зонду', hash: { car: 1, autograd: 1, losk: 1, }, },
