@@ -4,6 +4,7 @@ const arrBuyNeed = [
 
 
 
+{ id: '2023_08_27_2200', title: 'Мухобійка', hash: { home: 1, barabashovo: 1, market: 1, }, },
 
 
 
