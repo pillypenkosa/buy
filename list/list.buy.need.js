@@ -4,7 +4,11 @@ const arrBuyNeed = [
 
 
 
-{ id: '2023_08_27_2200', title: 'Мухобійка', hash: { home: 1, barabashovo: 1, market: 1, }, },
+{ id: '2023_08_28_1902', title: 'Тримач для регістратогра', hash: { car: 1, }, },
+{ id: '2023_08_28_1901', title: 'Надфіля', hash: { tool: 1, household: 1, }, },
+{ id: '2023_08_28_1900', title: 'Розетка пряма довга для воді на колонку', hash: { household: 1, }, },
+
+{ id: '2023_08_27_2200', title: 'Мухобійка', hash: { home: 1, }, },
 
 
 
