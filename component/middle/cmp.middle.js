@@ -35,7 +35,7 @@ class ComponentMiddle {
 		//alert( id );
 
 		let html = `<div class="winTitle">${ title }</div>`;
-		arrBuyNeed.forEach( k => {
+		arrListBuyNeed.forEach( k => {
 
 			//console.log( k.hash );
 
@@ -63,7 +63,7 @@ class ComponentMiddle {
 		//alert( 'ComponentMiddle.showBought()' );
 
 		let html = '';
-		arrBuy.forEach( k => {
+		arrListBuy.forEach( k => {
 
 			let hashText = '';
 			for ( let k1 in k.hash  ) {

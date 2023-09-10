@@ -1,4 +1,4 @@
-const arrBuyNeed = [
+const arrListBuyNeed = [
 
 
 
@@ -131,9 +131,9 @@ const arrBuyNeed = [
 
 
 
-let objBuyNeed = {};
-arrBuyNeed.forEach( k => {
-	objBuyNeed[ k.id ] = k;
+let objListBuyNeed = {};
+arrListBuyNeed.forEach( k => {
+	objListBuyNeed[ k.id ] = k;
 });
 
 

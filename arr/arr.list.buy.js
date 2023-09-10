@@ -1,4 +1,4 @@
-const arrBuy = [
+const arrListBuy = [
 
 
 
@@ -1231,9 +1231,9 @@ household: 1, 	// домашнее хозяйство, сад, огород, д�
 
 
 
-let objBuy = {};
-arrBuy.forEach( k => {
-	objBuy[ k.id ] = k;
+let objListBuy = {};
+arrListBuy.forEach( k => {
+	objListBuy[ k.id ] = k;
 });
 
 
