@@ -4,6 +4,8 @@ const arrListBuyNeed = [
 
 
 
+{ id: '2023_09_11_2041', title: 'Серветки паперові великі зелені', hash: { atb: 1, car: 1, barabashovo: 1, market: 1, }, },
+{ id: '2023_09_11_2040', title: 'Кульки-пакети-майки для дрібниць в машину', hash: { atb: 1, car: 1, barabashovo: 1, market: 1, }, },
 
 
 
