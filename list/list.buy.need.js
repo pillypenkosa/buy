@@ -4,6 +4,17 @@ const arrListBuyNeed = [
 
 
 
+
+
+{ id: '2023_09_14_1153', title: 'Неонова лампа 40-60 В', hash: { car: 1, losk: 1, autograd: 1, barabashovo: 1, market: 1, }, },
+{ id: '2023_09_14_1152', title: 'Реле. Лоск,  ряд 20, місце 33-35  (ФОП Пелих П.В.)', hash: { car: 1, losk: 1, autograd: 1, barabashovo: 1, market: 1, }, },
+{ id: '2023_09_14_1151', title: 'Діод 1N4007 або FR104 (для реле розвантаження)', hash: { car: 1, losk: 1, autograd: 1, barabashovo: 1, market: 1, }, },
+
+{ id: '2023_09_14_1150', title: 'Фари тюнінговані LPVW97', hash: { car: 1, losk: 1, autograd: 1, barabashovo: 1, market: 1, }, },
+
+
+
+
 { id: '2023_09_11_2041', title: 'Серветки паперові великі зелені', hash: { atb: 1, car: 1, barabashovo: 1, market: 1, }, },
 { id: '2023_09_11_2040', title: 'Кульки-пакети-майки для дрібниць в машину', hash: { atb: 1, car: 1, barabashovo: 1, market: 1, }, },
 
