@@ -3,19 +3,24 @@ const arrListBuyNeed = [
 
 
 
+{ id: '2023_09_18_1904', title: 'Подштанники 2-3 пари', hash: { barabashovo: 1, market: 1, }, },
+{ id: '2023_09_18_1903', title: 'Джинси', hash: { barabashovo: 1, market: 1, }, },
+{ id: '2023_09_18_1902', title: 'Кроссовки или ботинки под дождь', hash: { barabashovo: 1, market: 1, }, },
+
+{ id: '2023_09_18_1901', title: 'Клеми-кільця під болт 6мм, для кріпера під дроти до 1мм<sup>2</sup>', hash: { car: 1, losk: 1, autograd: 1, barabashovo: 1, market: 1, }, },
+{ id: '2023_09_18_1900', title: 'Двосторонній скотч для антени та датчику удара', hash: { car: 1, losk: 1, autograd: 1, barabashovo: 1, market: 1, }, },
 
 
+{ id: '2023_09_17_2000', title: 'Запобіжник 25 А з колодкою для сигналізації', hash: { car: 1, losk: 1, autograd: 1, barabashovo: 1, market: 1, }, },
 
 { id: '2023_09_14_1153', title: 'Неонова лампа 40-60 В', hash: { car: 1, losk: 1, autograd: 1, barabashovo: 1, market: 1, }, },
-{ id: '2023_09_14_1152', title: 'Реле. Лоск,  ряд 20, місце 33-35  (ФОП Пелих П.В.)', hash: { car: 1, losk: 1, autograd: 1, barabashovo: 1, market: 1, }, },
+//{ id: '2023_09_14_1152', title: 'Реле. Лоск,  ряд 20, місце 33-35  (ФОП Пелих П.В.)', hash: { car: 1, losk: 1, autograd: 1, barabashovo: 1, market: 1, }, },
 { id: '2023_09_14_1151', title: 'Діод 1N4007 або FR104 (для реле розвантаження)', hash: { car: 1, losk: 1, autograd: 1, barabashovo: 1, market: 1, }, },
 
 { id: '2023_09_14_1150', title: 'Фари тюнінговані LPVW97', hash: { car: 1, losk: 1, autograd: 1, barabashovo: 1, market: 1, }, },
 
 
-
-
-{ id: '2023_09_11_2041', title: 'Серветки паперові великі зелені', hash: { atb: 1, car: 1, barabashovo: 1, market: 1, }, },
+//{ id: '2023_09_11_2041', title: 'Серветки паперові великі зелені', hash: { atb: 1, car: 1, barabashovo: 1, market: 1, }, },
 { id: '2023_09_11_2040', title: 'Кульки-пакети-майки для дрібниць в машину', hash: { atb: 1, car: 1, barabashovo: 1, market: 1, }, },
 
 
