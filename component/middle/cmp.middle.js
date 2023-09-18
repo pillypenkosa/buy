@@ -122,16 +122,7 @@ class ComponentMiddle {
 						if ( objListStore[ k.trader.shop ].gps ) 
 							store += ' <a href="' + objListStore[ k.trader.shop ].gps + '" target="_blank">GPS-></a>';
 
-
-
-
-
 					}
-
-
-					//store = k.trader.shop;
-
-					// objListStore[ store ] ? objListStore[ store ].title : ''
 				}
 
 				if ( k.trader.site ) {
@@ -143,7 +134,6 @@ class ComponentMiddle {
 			//console.log( k.id );
 			//console.log( k.id, k.trader );
 			//console.log( store );
-
 
 			//<div class="total">${ k.cost ? ( k.cost.total ? k.cost.total + ' грн' : '' ) : '' }</div>
 			
