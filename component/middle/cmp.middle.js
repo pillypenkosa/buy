@@ -109,19 +109,40 @@ class ComponentMiddle {
 			let site = '';
 			if ( k.trader ) {
 				if ( k.trader.shop ) {
-					store = k.trader.shop;
+
+					if ( objListStore[ k.trader.shop ] ) {
+
+						if ( objListStore[ k.trader.shop ].title ) 
+							store = objListStore[ k.trader.shop ].title;
+
+						if ( objListStore[ k.trader.shop ].adress ) 
+							store += ', ' + objListStore[ k.trader.shop ].adress;
+
+
+						if ( objListStore[ k.trader.shop ].gps ) 
+							store += ' <a href="' + objListStore[ k.trader.shop ].gps + '" target="_blank">GPS-></a>';
+
+
+
+
+
+					}
+
+
+					//store = k.trader.shop;
+
+					// objListStore[ store ] ? objListStore[ store ].title : ''
 				}
 
 				if ( k.trader.site ) {
 					site = '<a href="' + k.trader.site + '" target="_blank">(www)</a>';
 				}
-
-
-
 			}
 
 
-
+			//console.log( k.id );
+			//console.log( k.id, k.trader );
+			//console.log( store );
 
 
 			//<div class="total">${ k.cost ? ( k.cost.total ? k.cost.total + ' грн' : '' ) : '' }</div>
@@ -133,7 +154,7 @@ class ComponentMiddle {
 				<div class="mark">${ k.manufacturer } ${ k.mark }</div>
 				<div class="total">${ total } = ${ item } * ${ price }</div>
 
-				<div class="store">${ objListStore[ store ].title }</div>
+				<div class="store">${ store }</div>
 			</div>`;
 
 		});
