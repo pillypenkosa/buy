@@ -8,6 +8,7 @@ const dependences = {
 
 	listGIT: [ 		// https://pillypenkosa.github.io/database/list/list. ${ k } .js
 
+		'store',
 		'store.cat',
 	],
 

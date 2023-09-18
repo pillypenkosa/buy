@@ -77,6 +77,33 @@ household: 1, 	// домашнее хозяйство, сад, огород, д�
 
 
 
+
+
+
+
+
+
+
+
+
+{
+	id 				: '2023_09_17_1000',
+	title 			: 'реле 4-контактне',
+	hash 			: { car: 1, },	
+	manufacturer 	: 'Bosdq',
+	mark 			: '',
+	trader 			: { shop: 'kharkiv_losk_1_auto_elektrika', }, 	// змінити ID  в `db/list/list.store.js`
+	cost 			: { total: 150, price: 30, item: 5, unit: 'шт', },
+},
+{
+	id 				: '2023_09_05_1500',
+	title 			: 'реле 4-контактне, 30 А',
+	hash 			: { car: 1, },	
+	manufacturer 	: 'Bosch',
+	mark 			: '0986AH0453',
+	trader 			: { site: 'https://your-car.com.ua/product/0986ah0453/bosch/',  },
+	cost 			: { total: 256, price: 64, item: 4, unit: 'шт', },
+},
 {
 	id 				: '2023_09_01_0900',
 	title 			: 'реле 4-контактне',

@@ -75,14 +75,65 @@ class ComponentMiddle {
 			}
 
 
+
+			let total = '';
+			let price = '';
+			let item = '';
+			let unit = '';
+
+
+			if ( k.cost ) 
+			{
+				if ( k.cost.total ) {
+					total = k.cost.total + ' грн';
+				}
+
+				if ( k.cost.price ) {
+					price = k.cost.price  + ' грн';
+				}
+
+				if ( k.cost.item ) {
+					item = k.cost.item;
+
+					if ( k.cost.unit ) {
+						item += ' ' + k.cost.unit;
+					}
+				}
+			}
+
+
+			//console.log( total );
+
+
+			let store = '';
+			let site = '';
+			if ( k.trader ) {
+				if ( k.trader.shop ) {
+					store = k.trader.shop;
+				}
+
+				if ( k.trader.site ) {
+					site = '<a href="' + k.trader.site + '" target="_blank">(www)</a>';
+				}
+
+
+
+			}
+
+
+
+
+
+			//<div class="total">${ k.cost ? ( k.cost.total ? k.cost.total + ' грн' : '' ) : '' }</div>
+			
 			html += `<div class="each">
 				<div class="id">${ k.id }</div>
 
-				<div class="title">${ k.title }</div>
+				<div class="title">${ k.title } ${ site }</div>
 				<div class="mark">${ k.manufacturer } ${ k.mark }</div>
-				<div class="total">${ k.cost ? ( k.cost.total ? k.cost.total + ' грн' : '' ) : '' }</div>
+				<div class="total">${ total } = ${ item } * ${ price }</div>
 
-				<div class="store">${ hashText }</div>
+				<div class="store">${ objListStore[ store ].title }</div>
 			</div>`;
 
 		});
