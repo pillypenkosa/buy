@@ -2,16 +2,16 @@ const arrListBuyNeed = [
 
 
 
-
+{ id: '2023_09_21_2050', title: 'Арахіс смажений', hash: { atb: 1, barabashovo: 1, market: 1, }, },
 
 { id: '2023_09_19_1852', title: 'Помада-вазелін гігієнічна', hash: { pharmacy: 1, barabashovo: 1, market: 1, }, },
 
-{ id: '2023_09_19_1851', title: 'Батарейки 2025 2 шт', hash: { losk: 1, autograd: 1, barabashovo: 1, market: 1, }, },
-{ id: '2023_09_19_1850', title: 'Запобіжник 25А з колодкою-тримачем', hash: { losk: 1, autograd: 1, barabashovo: 1, market: 1, }, },
-{ id: '2023_09_18_1905', title: 'Ліхтарик', hash: { losk: 1, autograd: 1, barabashovo: 1, market: 1, }, },
-{ id: '2023_09_18_1901', title: 'Клеми-кільця під болт 6мм, для кріпера під дроти до 1мм<sup>2</sup>', hash: { car: 1, losk: 1, autograd: 1, barabashovo: 1, market: 1, }, },
-{ id: '2023_09_18_1900', title: 'Двосторонній скотч для антени та датчику удара', hash: { car: 1, losk: 1, autograd: 1, barabashovo: 1, market: 1, }, },
-{ id: '2023_09_17_2000', title: 'Запобіжник 25 А з колодкою для сигналізації', hash: { car: 1, losk: 1, autograd: 1, barabashovo: 1, market: 1, }, },
+//{ id: '2023_09_19_1851', title: 'Батарейки 2025 2 шт', hash: { losk: 1, autograd: 1, barabashovo: 1, market: 1, }, },
+//{ id: '2023_09_19_1850', title: 'Запобіжник 25А з колодкою-тримачем', hash: { losk: 1, autograd: 1, barabashovo: 1, market: 1, }, },
+//{ id: '2023_09_18_1905', title: 'Ліхтарик', hash: { losk: 1, autograd: 1, barabashovo: 1, market: 1, }, },
+//{ id: '2023_09_18_1901', title: 'Клеми-кільця під болт 6мм, для кріпера під дроти до 1мм<sup>2</sup>', hash: { car: 1, losk: 1, autograd: 1, barabashovo: 1, market: 1, }, },
+//{ id: '2023_09_18_1900', title: 'Двосторонній скотч для антени та датчику удара', hash: { car: 1, losk: 1, autograd: 1, barabashovo: 1, market: 1, }, },
+//{ id: '2023_09_17_2000', title: 'Запобіжник 25 А з колодкою для сигналізації', hash: { car: 1, losk: 1, autograd: 1, barabashovo: 1, market: 1, }, },
 
 { id: '2023_09_18_1904', title: 'Подштанники 2-3 пари', hash: { barabashovo: 1, market: 1, }, },
 { id: '2023_09_18_1903', title: 'Джинси', hash: { barabashovo: 1, market: 1, }, },
