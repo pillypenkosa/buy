@@ -3,16 +3,14 @@ const arrListBuyNeed = [
 
 
 
-
-
-
+{ id: '2023_08_14_1201', title: 'Паста Теймурова', hash: { pharmacy: 1, }, },
+{ id: '2023_09_19_1852', title: 'Помада-вазелін гігієнічна', hash: { pharmacy: 1, barabashovo: 1, market: 1, }, },
 
 { id: '2023_09_22_1930', title: 'Жгут до замка запалювання з цілим чорно-жовтим IGN-15', hash: { car: 1, losk: 1, autograd: 1, barabashovo: 1, market: 1, }, },
 
 
-{ id: '2023_09_21_2050', title: 'Арахіс смажений', hash: { atb: 1, barabashovo: 1, market: 1, }, },
+//{ id: '2023_09_21_2050', title: 'Арахіс смажений', hash: { atb: 1, barabashovo: 1, market: 1, }, },
 
-{ id: '2023_09_19_1852', title: 'Помада-вазелін гігієнічна', hash: { pharmacy: 1, barabashovo: 1, market: 1, }, },
 
 //{ id: '2023_09_19_1851', title: 'Батарейки 2025 2 шт', hash: { losk: 1, autograd: 1, barabashovo: 1, market: 1, }, },
 //{ id: '2023_09_19_1850', title: 'Запобіжник 25А з колодкою-тримачем', hash: { losk: 1, autograd: 1, barabashovo: 1, market: 1, }, },
@@ -58,7 +56,6 @@ const arrListBuyNeed = [
 { id: '2023_04_01_1209', title: 'Болти на 6 з лівою різьбою <br/>на ручки дверей', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
 
 //{ id: '2023_08_14_1202', title: 'Кліпси для пластику над дверями. VAG 357867300A 357867300 333867300', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
-//{ id: '2023_08_14_1201', title: 'Паста Теймурова', hash: { pharmacy: 1, }, },
 //{ id: '2023_08_14_1200', title: 'Стаканчик з кришкою для бульйона', hash: { dishes: 1, barabashovo: 1, market: 1, atb: 1, rost: 1, epicentr: 1, newline: 1, home: 1, }, },
 
 
