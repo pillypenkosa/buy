@@ -2,6 +2,14 @@ const arrListBuyNeed = [
 
 
 
+
+
+
+
+
+{ id: '2023_09_22_1930', title: 'Жгут до замка запалювання з цілим чорно-жовтим IGN-15', hash: { car: 1, losk: 1, autograd: 1, barabashovo: 1, market: 1, }, },
+
+
 { id: '2023_09_21_2050', title: 'Арахіс смажений', hash: { atb: 1, barabashovo: 1, market: 1, }, },
 
 { id: '2023_09_19_1852', title: 'Помада-вазелін гігієнічна', hash: { pharmacy: 1, barabashovo: 1, market: 1, }, },
