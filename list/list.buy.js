@@ -76,23 +76,40 @@ household: 1, 	// домашнее хозяйство, сад, огород, д�
 
 
 
-
-
-
-
-
-
-
-
-
-
+{
+	id 				: '2023_09_21_1302',
+	title 			: 'Подушка двигуна ',
+	hash 			: { car: 1, },	
+	manufacturer 	: 'Corteco',
+	mark 			: '21652428',
+	trader 			: { shop: 'kharkiv_losk_2_4', }, 
+	cost 			: { total: 700, price: 700, item: 1, unit: 'шт', },
+},
+{
+	id 				: '2023_09_21_1301',
+	title 			: 'Подушка двигуна передня',
+	hash 			: { car: 1, },	
+	manufacturer 	: 'Corteco',
+	mark 			: '21651935',
+	trader 			: { shop: 'kharkiv_losk_2_4', }, 
+	cost 			: { total: 1200, price: 1200, item: 1, unit: 'шт', },
+},
+{
+	id 				: '2023_09_21_1300',
+	title 			: 'Подушка двигуна задня',
+	hash 			: { car: 1, },	
+	manufacturer 	: 'Birth',
+	mark 			: '5483',
+	trader 			: { shop: 'kharkiv_losk_2_4', }, 
+	cost 			: { total: 900, price: 900, item: 1, unit: 'шт', },
+},
 {
 	id 				: '2023_09_17_1000',
 	title 			: 'Реле 4-контактне 40 А',
 	hash 			: { car: 1, },	
 	manufacturer 	: 'Bosdq',
 	mark 			: '',
-	trader 			: { shop: 'kharkiv_losk_1_auto_elektrika', }, 	// змінити ID  в `db/list/list.store.js`
+	trader 			: { shop: 'kharkiv_losk_1_auto_elektryka', }, 	// змінити ID  в `db/list/list.store.js`
 	cost 			: { total: 150, price: 30, item: 5, unit: 'шт', },
 },
 {
