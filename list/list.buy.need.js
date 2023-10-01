@@ -3,8 +3,12 @@ const arrListBuyNeed = [
 
 
 
-{ id: '2023_08_14_1201', title: 'Паста Теймурова', hash: { pharmacy: 1, }, },
-{ id: '2023_09_19_1852', title: 'Помада-вазелін гігієнічна', hash: { pharmacy: 1, barabashovo: 1, market: 1, }, },
+
+
+{ id: '2023_09_11_2040', title: 'Кульки-пакети-майки для дрібниць в машину', hash: { atb: 1, car: 1, barabashovo: 1, market: 1, }, },
+
+//{ id: '2023_08_14_1201', title: 'Паста Теймурова', hash: { pharmacy: 1, }, },
+//{ id: '2023_09_19_1852', title: 'Помада-вазелін гігієнічна', hash: { pharmacy: 1, barabashovo: 1, market: 1, }, },
 
 { id: '2023_09_22_1930', title: 'Жгут до замка запалювання з цілим чорно-жовтим IGN-15', hash: { car: 1, losk: 1, autograd: 1, barabashovo: 1, market: 1, }, },
 
@@ -32,7 +36,6 @@ const arrListBuyNeed = [
 
 
 //{ id: '2023_09_11_2041', title: 'Серветки паперові великі зелені', hash: { atb: 1, car: 1, barabashovo: 1, market: 1, }, },
-{ id: '2023_09_11_2040', title: 'Кульки-пакети-майки для дрібниць в машину', hash: { atb: 1, car: 1, barabashovo: 1, market: 1, }, },
 
 
 
