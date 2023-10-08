@@ -5,6 +5,11 @@ const arrListBuyNeed = [
 
 
 
+
+{ id: '2023_10_08_1900', title: 'Лампи для гаража 4-5 шт', hash: { atb: 1, household: 1, barabashovo: 1, market: 1, }, },
+{ id: '2023_06_03_1211', title: 'Вимикач світла для гаража', hash: { household: 1, barabashovo: 1, market: 1, }, },
+
+
 { id: '2023_09_11_2040', title: 'Кульки-пакети-майки для дрібниць в машину', hash: { atb: 1, car: 1, barabashovo: 1, market: 1, }, },
 
 //{ id: '2023_08_14_1201', title: 'Паста Теймурова', hash: { pharmacy: 1, }, },
@@ -132,7 +137,6 @@ const arrListBuyNeed = [
 { id: '2023_06_03_1251', title: 'Телевізор на кухню', hash: { home: 1, }, },
 
 { id: '2023_06_03_1115', title: 'Замок кодовий на хвіртку', hash: { household: 1, barabashovo: 1, market: 1, }, },
-{ id: '2023_06_03_1211', title: 'Вимикач світла для гаража', hash: { household: 1, barabashovo: 1, market: 1, }, },
 //{ id: '2023_06_03_1210', title: 'Плівка на гараж', hash: { household: 1, barabashovo: 1, market: 1, }, },
 { id: '2023_06_03_1232', title: '2 труби 3/4-різьба та 2 згонки (втулки мама-мама) для перехода з крана на цю трубу <br/>для насоса опалення біля котла', hash: { household: 1, barabashovo: 1, market: 1, }, },
 
