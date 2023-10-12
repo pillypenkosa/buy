@@ -6,7 +6,7 @@ const arrListBuyNeed = [
 
 
 
-{ id: '2023_10_08_1900', title: 'Лампи для гаража 4-5 шт', hash: { atb: 1, household: 1, barabashovo: 1, market: 1, }, },
+{ id: '2023_10_12_1000', title: 'Лампи 4000К для гаража 2-3 шт', hash: { atb: 1, household: 1, barabashovo: 1, market: 1, }, },
 { id: '2023_06_03_1211', title: 'Вимикач світла для гаража', hash: { household: 1, barabashovo: 1, market: 1, }, },
 
 
