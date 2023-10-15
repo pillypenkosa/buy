@@ -77,7 +77,7 @@ household: 1, 	// домашнее хозяйство, сад, огород, д�
 {
 	id 				: '2023_10_05_1302',
 	title 			: 'Змішувач в ванну',
-	hash 			: { car: 1, },	
+	hash 			: { home: 1, },	
 	manufacturer 	: ' Haiba ',
 	mark 			: '',
 	trader 			: { shop: 'merefa_rynok_santehnika_1', },
