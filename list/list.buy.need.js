@@ -4,6 +4,9 @@ const arrListBuyNeed = [
 
 
 
+{ id: '2023_10_16_0801', title: 'Прозора папка для документів', hash: { rost: 1, barabashovo: 1, market: 1, }, },
+{ id: '2023_10_16_0800', title: 'Файли А4', hash: { rost: 1, barabashovo: 1, market: 1, }, },
+
 
 
 { id: '2023_10_12_1000', title: 'Лампи 4000К для гаража 2-3 шт', hash: { atb: 1, household: 1, barabashovo: 1, market: 1, }, },
