@@ -74,6 +74,26 @@ household: 1, 	// домашнее хозяйство, сад, огород, д�
 
 
 
+
+
+{
+	id 				: '2023_10_23_1501',
+	title 			: 'Перчатки тактичні',
+	hash 			: { home: 1, },	
+	manufacturer 	: 'CQR',
+	mark 			: '50494',
+	trader 			: { site: 'https://likebags.com.ua/catalog/takticheskie-ryukzaki-armeyskie/12137-taktichni-rukavitsi-chorni-cqr-50494/', },
+	cost 			: { total: 180, price: 180, item: 1, unit: 'шт', },
+},
+{
+	id 				: '2023_10_23_1500',
+	title 			: 'Сумка-барсетка',
+	hash 			: { home: 1, },	
+	manufacturer 	: 'Dalley',
+	mark 			: '',
+	trader 			: { site: 'https://likebags.com.ua/catalog/takticheskie-ryukzaki-armeyskie/10392-cholovicha-sumka-barsetka-dalley/', },
+	cost 			: { total: 270, price: 270, item: 1, unit: 'шт', },
+},
 {
 	id 				: '2023_10_05_1302',
 	title 			: 'Змішувач в ванну',
