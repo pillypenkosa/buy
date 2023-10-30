@@ -3,7 +3,7 @@ const arrListBuyNeed = [
 
 
 
-{ id: '2023_08_14_1201', title: 'Паста Теймурова', hash: { pharmacy: 1, }, },
+//{ id: '2023_08_14_1201', title: 'Паста Теймурова', hash: { pharmacy: 1, }, },
 
 //{ id: '2023_10_18_1600', title: 'Батарейки для ліхтарика ААА - 3 шт', hash: { atb: 1, rost: 1, barabashovo: 1, market: 1, }, },
 //{ id: '2023_10_16_0801', title: 'Прозора папка для документів', hash: { rost: 1, barabashovo: 1, market: 1, }, },
@@ -15,7 +15,7 @@ const arrListBuyNeed = [
 { id: '2023_06_03_1211', title: 'Вимикач світла для гаража', hash: { household: 1, barabashovo: 1, market: 1, }, },
 
 
-{ id: '2023_09_11_2040', title: 'Кульки-пакети-майки для дрібниць в машину', hash: { atb: 1, car: 1, barabashovo: 1, market: 1, }, },
+//{ id: '2023_09_11_2040', title: 'Кульки-пакети-майки для дрібниць в машину', hash: { atb: 1, car: 1, barabashovo: 1, market: 1, }, },
 
 //{ id: '2023_09_19_1852', title: 'Помада-вазелін гігієнічна', hash: { pharmacy: 1, barabashovo: 1, market: 1, }, },
 
