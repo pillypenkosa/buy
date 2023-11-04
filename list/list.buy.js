@@ -75,7 +75,15 @@ household: 1, 	// домашнее хозяйство, сад, огород, д�
 
 
 
-
+{
+	id 				: '2023_10_29_1501',
+	title 			: 'Дровокол гвинтовий',
+	hash 			: { home: 1, },	
+	manufacturer 	: 'Sthor',
+	mark 			: '22591',
+	trader 			: { site: 'https://prom.ua/ua/p1945713061-drovokol-kolun-vintovoj.html', },
+	cost 			: { total: 370, price: 370, item: 1, unit: 'шт', },
+},
 {
 	id 				: '2023_10_23_1501',
 	title 			: 'Перчатки тактичні',
