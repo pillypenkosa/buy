@@ -3,6 +3,11 @@ const arrListBuyNeed = [
 
 
 
+
+{ id: '2023_11_08_2200', title: 'Карабінчики на бронік', hash: { market: 1, }, },
+
+
+
 //{ id: '2023_08_14_1201', title: 'Паста Теймурова', hash: { pharmacy: 1, }, },
 
 //{ id: '2023_10_18_1600', title: 'Батарейки для ліхтарика ААА - 3 шт', hash: { atb: 1, rost: 1, barabashovo: 1, market: 1, }, },
