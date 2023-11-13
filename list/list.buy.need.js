@@ -2,23 +2,22 @@ const arrListBuyNeed = [
 
 
 
-{ title: 'Олія моторна 5л <br/> Aral Blue Tronic 10w40, ACEA A3/B4, API SN, VW 501.01/505.00', hash: { car: 1, autograd: 1, losk: 1, }, },
+
+{ title: 'Контейнер для печива )))))))))', hash: { car: 1, losk: 1, autograd: 1, }, },
+{ title: 'Карабінчики на бронік', hash: { market: 1, }, },
+{ title: 'Вимикач світла для діодних ламп в багажнику', hash: { household: 1, barabashovo: 1, market: 1, }, },
+{ title: 'Вимикач світла для гаража', hash: { household: 1, barabashovo: 1, market: 1, }, },
+
+//{ title: 'Олія моторна 5л <br/> Aral Blue Tronic 10w40, ACEA A3/B4, API SN, VW 501.01/505.00', hash: { car: 1, autograd: 1, losk: 1, }, },
 { title: 'Товсті саморізи чорні для кріплення обшивки в багажнику', hash: { car: 1, losk: 1, autograd: 1, }, },
 { title: 'Заглушка-гайка для фіксації килимка в багажнику за задніми сидіннями', hash: { car: 1, losk: 1, autograd: 1, }, },
-
 { title: 'Фіксатор-упор переднього сидіння ( замість скоби )', hash: { car: 1, losk: 1, autograd: 1, }, },
-
-
-
-{ title: 'Карабінчики на бронік', hash: { market: 1, }, },
-
 
 
 //{ id: '2023_08_14_1201', title: 'Паста Теймурова', hash: { pharmacy: 1, }, },
 //{ id: '2023_10_18_1600', title: 'Батарейки для ліхтарика ААА - 3 шт', hash: { atb: 1, rost: 1, barabashovo: 1, market: 1, }, },
 
 //{ id: '2023_10_12_1000', title: 'Лампи 4000К для гаража 2-3 шт', hash: { atb: 1, household: 1, barabashovo: 1, market: 1, }, },
-{ title: 'Вимикач світла для гаража', hash: { household: 1, barabashovo: 1, market: 1, }, },
 { title: 'Жгут до замка запалювання з цілим чорно-жовтим IGN-15', hash: { car: 1, losk: 1, autograd: 1, barabashovo: 1, market: 1, }, },
 
 
