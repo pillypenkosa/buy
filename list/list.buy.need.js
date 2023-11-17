@@ -3,8 +3,14 @@ const arrListBuyNeed = [
 
 
 
+
+
+
+
+{ title: 'Труби для димоходу', hash: { household: 1, barabashovo: 1, market: 1, }, },
+
 { title: 'Контейнер для печива )))))))))', hash: { car: 1, losk: 1, autograd: 1, }, },
-{ title: 'Карабінчики на бронік', hash: { market: 1, }, },
+{ title: 'Карабінчики пластикові на бронік', hash: { market: 1, }, },
 { title: 'Вимикач світла для діодних ламп в багажнику', hash: { household: 1, barabashovo: 1, market: 1, }, },
 { title: 'Вимикач світла для гаража', hash: { household: 1, barabashovo: 1, market: 1, }, },
 
