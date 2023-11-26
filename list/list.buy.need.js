@@ -6,6 +6,26 @@ const arrListBuyNeed = [
 
 
 
+{ title: 'Чашка велика', hash: { household: 1, barabashovo: 1, market: 1, }, },
+{ title: 'Ложки одноразові', hash: { household: 1, barabashovo: 1, market: 1, }, },
+{ title: 'Тарілки одноразові', hash: { household: 1, barabashovo: 1, market: 1, }, },
+{ title: 'Ніж зубастий', hash: { household: 1, barabashovo: 1, market: 1, }, },
+
+{ title: 'Зубна паста', hash: { household: 1, barabashovo: 1, market: 1, }, },
+{ title: 'Зубна щітка', hash: { household: 1, barabashovo: 1, market: 1, }, },
+{ title: 'Палички вушні', hash: { household: 1, barabashovo: 1, market: 1, }, },
+{ title: 'Шприц великий для промивки', hash: { household: 1, barabashovo: 1, market: 1, }, },
+{ title: 'Паста Теймурова', hash: { household: 1, barabashovo: 1, market: 1, }, },
+
+{ title: 'Сумка велика господарча', hash: { household: 1, barabashovo: 1, market: 1, }, },
+{ title: 'Ганчірка для взуття', hash: { household: 1, barabashovo: 1, market: 1, }, },
+{ title: 'Щітка для взуття', hash: { household: 1, barabashovo: 1, market: 1, }, },
+{ title: 'Ганчірка для пилу', hash: { household: 1, barabashovo: 1, market: 1, }, },
+{ title: 'Тремпеля', hash: { household: 1, barabashovo: 1, market: 1, }, },
+
+
+
+
 
 { title: 'Труби для димоходу', hash: { household: 1, barabashovo: 1, market: 1, }, },
 
