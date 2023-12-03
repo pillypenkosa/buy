@@ -4,24 +4,32 @@ const arrListBuyNeed = [
 
 
 
+{ title: 'Шурупчик для стільця 3.6 х 24', hash: { household: 1, barabashovo: 1, market: 1, }, },
+{ title: 'Зарядку для мобіли з кабелеми', hash: { household: 1, barabashovo: 1, market: 1, }, },
+
+{ title: 'Перчатки безпалі', hash: { household: 1, barabashovo: 1, market: 1, }, },
+{ title: 'Жезл', hash: { household: 1, barabashovo: 1, market: 1, }, },
+{ title: 'Кроси-черевики без хутра', hash: { household: 1, barabashovo: 1, market: 1, }, },
+
+//{ title: 'Чашка велика', hash: { household: 1, barabashovo: 1, market: 1, }, },
 
 
-{ title: 'Чашка велика', hash: { household: 1, barabashovo: 1, market: 1, }, },
-{ title: 'Ложки одноразові', hash: { household: 1, barabashovo: 1, market: 1, }, },
-{ title: 'Тарілки одноразові', hash: { household: 1, barabashovo: 1, market: 1, }, },
-{ title: 'Ніж зубастий', hash: { household: 1, barabashovo: 1, market: 1, }, },
 
-{ title: 'Зубна паста', hash: { household: 1, barabashovo: 1, market: 1, }, },
-{ title: 'Зубна щітка', hash: { household: 1, barabashovo: 1, market: 1, }, },
-{ title: 'Палички вушні', hash: { household: 1, barabashovo: 1, market: 1, }, },
+//{ title: 'Ложки одноразові', hash: { household: 1, barabashovo: 1, market: 1, }, },
+//{ title: 'Тарілки одноразові', hash: { household: 1, barabashovo: 1, market: 1, }, },
+//{ title: 'Ніж зубастий', hash: { household: 1, barabashovo: 1, market: 1, }, },
+
+//{ title: 'Зубна паста', hash: { household: 1, barabashovo: 1, market: 1, }, },
+//{ title: 'Зубна щітка', hash: { household: 1, barabashovo: 1, market: 1, }, },
+//{ title: 'Палички вушні', hash: { household: 1, barabashovo: 1, market: 1, }, },
 { title: 'Шприц великий для промивки', hash: { household: 1, barabashovo: 1, market: 1, }, },
-{ title: 'Паста Теймурова', hash: { household: 1, barabashovo: 1, market: 1, }, },
+//{ title: 'Паста Теймурова', hash: { household: 1, barabashovo: 1, market: 1, }, },
 
 { title: 'Сумка велика господарча', hash: { household: 1, barabashovo: 1, market: 1, }, },
-{ title: 'Ганчірка для взуття', hash: { household: 1, barabashovo: 1, market: 1, }, },
+//{ title: 'Ганчірка для взуття', hash: { household: 1, barabashovo: 1, market: 1, }, },
 { title: 'Щітка для взуття', hash: { household: 1, barabashovo: 1, market: 1, }, },
-{ title: 'Ганчірка для пилу', hash: { household: 1, barabashovo: 1, market: 1, }, },
-{ title: 'Тремпеля', hash: { household: 1, barabashovo: 1, market: 1, }, },
+//{ title: 'Ганчірка для пилу', hash: { household: 1, barabashovo: 1, market: 1, }, },
+//{ title: 'Тремпеля', hash: { household: 1, barabashovo: 1, market: 1, }, },
 
 
 
