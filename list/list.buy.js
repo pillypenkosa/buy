@@ -75,6 +75,95 @@ household: 1, 	// домашнее хозяйство, сад, огород, д�
 
 
 {
+	id 				: '2023_12_02_1000',
+	title 			: 'Замок водійської двері',
+	hash 			: { car: 1, },	
+	manufacturer 	: '',
+	mark 			: '',
+	trader 			: { shop: 'kharkiv_losk_2_4', }, 
+	cost 			: { total: 0, price: 0, item: 1, unit: 'шт', },
+},
+{
+	id 				: '2023_12_01_1004',
+	title 			: 'Гальмівна рідина',
+	hash 			: { car: 1, },	
+	manufacturer 	: '',
+	mark 			: '',
+	trader 			: { shop: 'kharkiv_losk_2_4', }, 
+	cost 			: { total: 150, price: 150, item: 1, unit: 'шт', },
+},
+{
+	id 				: '2023_12_01_1003',
+	title 			: 'Пильники-відбійники',
+	hash 			: { car: 1, },	
+	manufacturer 	: '',
+	mark 			: '',
+	trader 			: { shop: 'kharkiv_losk_2_4', }, 
+	cost 			: { total: 500, price: 250, item: 2, unit: 'шт', },
+},
+{
+	id 				: '2023_12_01_1002',
+	title 			: 'Ремкоплекти ',
+	hash 			: { car: 1, },	
+	manufacturer 	: '',
+	mark 			: '',
+	trader 			: { shop: 'kharkiv_losk_2_4', }, 
+	cost 			: { total: 1200, price: 600, item: 2, unit: 'шт', },
+},
+{
+	id 				: '2023_12_01_1001',
+	title 			: 'Пружини задні',
+	hash 			: { car: 1, },	
+	manufacturer 	: '',
+	mark 			: '',
+	trader 			: { shop: 'kharkiv_losk_2_4', }, 
+	cost 			: { total: 2500, price: 1250, item: 2, unit: 'шт', },
+},
+{
+	id 				: '2023_12_01_1000',
+	title 			: 'Амортизатори задні',
+	hash 			: { car: 1, },	
+	manufacturer 	: '',
+	mark 			: '',
+	trader 			: { shop: 'kharkiv_losk_2_4', }, 
+	cost 			: { total: 2500, price: 1250, item: 2, unit: 'шт', },
+},
+
+
+
+
+
+
+{
+	id 				: '2023_11_12_0903',
+	title 			: 'Фільтр олійний',
+	hash 			: { car: 1, },
+	manufacturer 	: '',
+	mark 			: '',
+	trader 			: { shop: 'kharkiv_losk_2_4', }, 
+	cost 			: { total: 0, price: 0, item: 1, unit: 'л', },
+},
+{
+	id 				: '2023_11_12_0902',
+	title 			: 'Олія моторна',
+	hash 			: { car: 1, },
+	manufacturer 	: 'Aral',
+	mark 			: '',
+	trader 			: { shop: 'kharkiv_losk_2_4', }, 
+	cost 			: { total: 0, price: 0, item: 1, unit: 'л', },
+	note 			: '1 бутиль, 1 л',
+},
+{
+	id 				: '2023_11_12_0901',
+	title 			: 'Олія моторна',
+	hash 			: { car: 1, },
+	manufacturer 	: 'Aral',
+	mark 			: '',
+	trader 			: { shop: 'kharkiv_losk_2_4', }, 
+	cost 			: { total: 0, price: 0, item: 4, unit: 'л', },
+	note 			: '1 каністра, 4 л',
+},
+{
 	id 				: '2023_11_12_0900',
 	title 			: 'Склоочисники',
 	hash 			: { car: 1, },	
