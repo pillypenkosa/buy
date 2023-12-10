@@ -2,10 +2,13 @@ const arrListBuyNeed = [
 
 
 
+
+
+
 { title: 'Парасолька 1.5-місна', hash: { household: 1, barabashovo: 1, market: 1, }, },
 
-{ title: 'Шурупчик для стільця 3.6 х 24', hash: { household: 1, barabashovo: 1, market: 1, }, },
-{ title: 'Зарядку для мобіли з кабелеми', hash: { household: 1, barabashovo: 1, market: 1, }, },
+//{ title: 'Шурупчик для стільця 3.6 х 24', hash: { household: 1, barabashovo: 1, market: 1, }, },
+//{ title: 'Зарядку для мобіли з кабелеми', hash: { household: 1, barabashovo: 1, market: 1, }, },
 
 { title: 'Перчатки безпалі', hash: { household: 1, barabashovo: 1, market: 1, }, },
 { title: 'Жезл', hash: { household: 1, barabashovo: 1, market: 1, }, },
