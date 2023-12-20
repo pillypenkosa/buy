@@ -3,7 +3,9 @@ const arrListBuyNeed = [
 
 
 
-
+{ title: 'Сушилки для взуття', hash: { household: 1, barabashovo: 1, market: 1, }, },
+{ title: 'Рюкзак', hash: { barabashovo: 1, market: 1, }, },
+{ title: 'Пульт GiOne S1016', hash: { barabashovo: 1, market: 1, }, },
 
 { title: 'Парасолька 1.5-місна', hash: { household: 1, barabashovo: 1, market: 1, }, },
 
@@ -25,10 +27,10 @@ const arrListBuyNeed = [
 //{ title: 'Зубна паста', hash: { household: 1, barabashovo: 1, market: 1, }, },
 //{ title: 'Зубна щітка', hash: { household: 1, barabashovo: 1, market: 1, }, },
 //{ title: 'Палички вушні', hash: { household: 1, barabashovo: 1, market: 1, }, },
-{ title: 'Шприц великий для промивки', hash: { household: 1, barabashovo: 1, market: 1, }, },
+//{ title: 'Шприц великий для промивки', hash: { household: 1, barabashovo: 1, market: 1, }, },
 //{ title: 'Паста Теймурова', hash: { household: 1, barabashovo: 1, market: 1, }, },
 
-{ title: 'Сумка велика господарча', hash: { household: 1, barabashovo: 1, market: 1, }, },
+//{ title: 'Сумка велика господарча', hash: { household: 1, barabashovo: 1, market: 1, }, },
 //{ title: 'Ганчірка для взуття', hash: { household: 1, barabashovo: 1, market: 1, }, },
 { title: 'Щітка для взуття', hash: { household: 1, barabashovo: 1, market: 1, }, },
 //{ title: 'Ганчірка для пилу', hash: { household: 1, barabashovo: 1, market: 1, }, },
