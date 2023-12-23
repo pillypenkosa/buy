@@ -13,7 +13,7 @@ const arrListBuyNeed = [
 //{ title: 'Зарядку для мобіли з кабелеми', hash: { household: 1, barabashovo: 1, market: 1, }, },
 
 { title: 'Перчатки безпалі', hash: { household: 1, barabashovo: 1, market: 1, }, },
-{ title: 'Жезл', hash: { household: 1, barabashovo: 1, market: 1, }, },
+//{ title: 'Жезл', hash: { household: 1, barabashovo: 1, market: 1, }, },
 { title: 'Кроси-черевики без хутра', hash: { household: 1, barabashovo: 1, market: 1, }, },
 
 //{ title: 'Чашка велика', hash: { household: 1, barabashovo: 1, market: 1, }, },
