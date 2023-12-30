@@ -5,7 +5,7 @@ const arrListBuyNeed = [
 
 { title: 'Сушилки для взуття', hash: { household: 1, barabashovo: 1, market: 1, }, },
 { title: 'Рюкзак', hash: { barabashovo: 1, market: 1, }, },
-{ title: 'Пульт GiOne S1016', hash: { barabashovo: 1, market: 1, }, },
+//{ title: 'Пульт GiOne S1016', hash: { barabashovo: 1, market: 1, }, },
 
 { title: 'Парасолька 1.5-місна', hash: { household: 1, barabashovo: 1, market: 1, }, },
 
@@ -32,7 +32,7 @@ const arrListBuyNeed = [
 
 //{ title: 'Сумка велика господарча', hash: { household: 1, barabashovo: 1, market: 1, }, },
 //{ title: 'Ганчірка для взуття', hash: { household: 1, barabashovo: 1, market: 1, }, },
-{ title: 'Щітка для взуття', hash: { household: 1, barabashovo: 1, market: 1, }, },
+//{ title: 'Щітка для взуття', hash: { household: 1, barabashovo: 1, market: 1, }, },
 //{ title: 'Ганчірка для пилу', hash: { household: 1, barabashovo: 1, market: 1, }, },
 //{ title: 'Тремпеля', hash: { household: 1, barabashovo: 1, market: 1, }, },
 
@@ -43,7 +43,7 @@ const arrListBuyNeed = [
 { title: 'Труби для димоходу', hash: { household: 1, barabashovo: 1, market: 1, }, },
 
 { title: 'Контейнер для печива )))))))))', hash: { car: 1, losk: 1, autograd: 1, }, },
-{ title: 'Карабінчики пластикові на бронік', hash: { market: 1, }, },
+//{ title: 'Карабінчики пластикові на бронік', hash: { market: 1, }, },
 { title: 'Вимикач світла для діодних ламп в багажнику', hash: { household: 1, barabashovo: 1, market: 1, }, },
 { title: 'Вимикач світла для гаража', hash: { household: 1, barabashovo: 1, market: 1, }, },
 
