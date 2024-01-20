@@ -5,6 +5,8 @@ const arrListBuyNeed = [
 
 
 
+{ title: 'Папір А4, 1-2 пачки', hash: { household: 1, barabashovo: 1, market: 1, }, },
+{ title: 'Сушилки для взуття', hash: { household: 1, barabashovo: 1, market: 1, }, },
 { title: 'Кобура прихованого носіння Форт-17', hash: { household: 1, barabashovo: 1, market: 1, }, },
 
 //{ title: 'Серветки зелені (паперові рушники)', hash: { household: 1, barabashovo: 1, market: 1, }, },
@@ -12,11 +14,9 @@ const arrListBuyNeed = [
 
 //{ title: 'Лоток для котів', hash: { household: 1, barabashovo: 1, market: 1, }, },
 //{ title: 'Наповнювач для лотка', hash: { household: 1, barabashovo: 1, market: 1, }, },
-{ title: 'Папір А4, 1-2 пачки', hash: { household: 1, barabashovo: 1, market: 1, }, },
 
 //{ title: 'Шприц великий для промивки', hash: { household: 1, barabashovo: 1, market: 1, }, },
 
-{ title: 'Сушилки для взуття', hash: { household: 1, barabashovo: 1, market: 1, }, },
 { title: 'Рюкзак', hash: { barabashovo: 1, market: 1, }, },
 
 { title: 'Парасолька 1.5-місна', hash: { household: 1, barabashovo: 1, market: 1, }, },
