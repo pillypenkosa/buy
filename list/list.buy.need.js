@@ -3,6 +3,7 @@ const arrListBuyNeed = [
 
 
 
+{ title: 'Рушник великий махровий', hash: { home: 1, barabashovo: 1, market: 1, }, },
 
 
 { title: 'Папір А4, 1-2 пачки', hash: { household: 1, barabashovo: 1, market: 1, }, },
