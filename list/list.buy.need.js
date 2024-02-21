@@ -2,6 +2,7 @@ const arrListBuyNeed = [
 
 
 
+{ title: 'Градусник для тіла', hash: { pharmacy: 1, }, },
 
 { title: 'Рушник великий махровий', hash: { home: 1, barabashovo: 1, market: 1, }, },
 { title: 'Ключ консервний', hash: { home: 1, barabashovo: 1, market: 1, }, },
