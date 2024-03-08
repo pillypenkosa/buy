@@ -80,7 +80,7 @@ class ComponentHeader {
 		let content = document.querySelectorAll( 'cmp-header .nav' )[ 0 ];
 
 		let cpHtml = `<div class="btn-filter" onclick="ComponentHeader.clcBtnMenu( 'all' )">Усі</div>`;
-		arrStoreCat.forEach( k => {
+		arrListShopCat.forEach( k => {
 			cpHtml += `<div class="btn-filter" onclick="ComponentHeader.clcBtnMenu( '${ k.id }' )">${ k.title }</div>`;
 		});
 

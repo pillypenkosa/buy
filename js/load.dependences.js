@@ -12,7 +12,7 @@ class LoadDependences {
 		dependences.listGIT.forEach( k => {
 
 			let script = document.createElement( 'script' );
-			script.src = `https://pillypenkosa.github.io/database/list/list.${ k }.js`;
+			script.src = `https://pillypenkosa.github.io/db/list/list.${ k }.js`;
 			//script.setAttribute( 'defer', '' );
 			divList.append( script );
 		});

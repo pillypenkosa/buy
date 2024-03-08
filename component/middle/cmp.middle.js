@@ -27,7 +27,7 @@ class ComponentMiddle {
 	// buyNeed
 	static showContent( id ) {
 
-		let title = objStoreCat[ id ] ? ( objStoreCat[ id ].title ? objStoreCat[ id ].title : 'Немає опису категорії українською... Дивно!' ) : ( id == 'all' ? 'Усі товари' : 'Товари без категорії... До речі, як так вийшло?..' ); // помилки не має бути
+		let title = arrListShopCat[ id ] ? ( arrListShopCat[ id ].title ? arrListShopCat[ id ].title : 'Немає опису категорії українською... Дивно!' ) : ( id == 'all' ? 'Усі товари' : 'Товари без категорії... До речі, як так вийшло?..' ); // помилки не має бути
 		//let title = '555777';
 
 		//alert( id );
@@ -41,7 +41,7 @@ class ComponentMiddle {
 
 			let hashText = '';
 			for ( let k1 in k.hash  ) 
-				hashText += ' #' + objStoreCat[ k1 ].title;
+				hashText += ' #' + arrListShopCat[ k1 ].title;
 
 			if ( id == 'all' || k.hash[ id ] ) { 	// дивна умова, але працює так як слід 		// не чіпати!
 
@@ -67,10 +67,10 @@ class ComponentMiddle {
 
 			let hashText = '';
 			for ( let k1 in k.hash  ) {
-				if ( objStoreCat[ k1 ] ) {
+				if ( arrListShopCat[ k1 ] ) {
 
-					if ( objStoreCat[ k1 ].title ) 
-						hashText += ' #' + objStoreCat[ k1 ].title;
+					if ( arrListShopCat[ k1 ].title ) 
+						hashText += ' #' + arrListShopCat[ k1 ].title;
 				}
 			}
 
@@ -110,17 +110,17 @@ class ComponentMiddle {
 			if ( k.trader ) {
 				if ( k.trader.shop ) {
 
-					if ( objListStore[ k.trader.shop ] ) {
+					if ( objListShop[ k.trader.shop ] ) {
 
-						if ( objListStore[ k.trader.shop ].title ) 
-							store = objListStore[ k.trader.shop ].title;
+						if ( objListShop[ k.trader.shop ].title ) 
+							store = objListShop[ k.trader.shop ].title;
 
-						if ( objListStore[ k.trader.shop ].adress ) 
-							store += ', ' + objListStore[ k.trader.shop ].adress;
+						if ( objListShop[ k.trader.shop ].adress ) 
+							store += ', ' + objListShop[ k.trader.shop ].adress;
 
 
-						if ( objListStore[ k.trader.shop ].gps ) 
-							store += ' <a href="' + objListStore[ k.trader.shop ].gps + '" target="_blank">GPS-></a>';
+						if ( objListShop[ k.trader.shop ].gps ) 
+							store += ' <a href="' + objListShop[ k.trader.shop ].gps + '" target="_blank">GPS-></a>';
 
 					}
 				}
