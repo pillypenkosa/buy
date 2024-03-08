@@ -37,11 +37,16 @@ class ComponentMiddle {
 		let html = `<div class="winTitle">${ title }</div>`;
 		arrListBuyNeed.forEach( k => {
 
-			//console.log( k.hash );
+			//console.log( k );
 
 			let hashText = '';
-			for ( let k1 in k.hash  ) 
-				hashText += ' #' + arrListShopCat[ k1 ].title;
+			for ( let k1 in k.hash  ) {
+
+				//console.log( k1 );
+				//console.log( objListShopCat );
+
+				hashText += ' #' + objListShopCat[ k1 ].title;
+			}
 
 			if ( id == 'all' || k.hash[ id ] ) { 	// дивна умова, але працює так як слід 		// не чіпати!
 
