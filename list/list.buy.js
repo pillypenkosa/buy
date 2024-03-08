@@ -1392,6 +1392,47 @@ household: 1, 	// домашнее хозяйство, сад, огород, д�
 	trader 			: { shop: 'kharkiv_elmir_1', site: '', },
 	cost 			: { total: 1482, price: 1482, item: 1, unit: 'шт', },
 },
+
+
+
+
+
+
+
+
+
+
+{ 
+	id  			: '2018_00_00_1000',
+	title 			: '', 
+	hash 			: {},
+	manufacturer 	: '', 
+	mark 			: '',
+	hash 			: { pc: {}, },
+	trader 			: { shop: 'kharkiv_elmir_1', site: '', },
+	cost 			: { total: 1482, price: 1482, item: 1, unit: 'шт', },
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 { 
 	id  			: '2017_09_29_1000',
 	title 			: 'USB Flash 64 Gb', 
@@ -1420,7 +1461,7 @@ household: 1, 	// домашнее хозяйство, сад, огород, д�
 	mark 			: 'L204WT',
 	hash 			: { pc: {}, },
 	trader 			: { shop: 'kharkiv_univermag_kharkiv', site: '', },
-	cost 			: { total: 1, price: 1, item: 1, unit: 'шт', },
+	cost 			: { total: 1500, price: 1500, item: 1, unit: 'шт', },
 },
 { 
 	id  			: '2007_11_21_1500',

@@ -2,7 +2,13 @@ const arrListBuyNeed = [
 
 
 
-{ title: 'Градусник для тіла', hash: { pharmacy: 1, }, },
+
+
+{ title: 'Піноізол на підлогу на хаті', hash: { home: 1, }, },
+{ title: 'Відро для полу на хаті', hash: { home: 1, }, },
+
+
+//{ title: 'Градусник для тіла', hash: { pharmacy: 1, }, },
 
 { title: 'Рушник великий махровий', hash: { home: 1, barabashovo: 1, market: 1, }, },
 { title: 'Ключ консервний', hash: { home: 1, barabashovo: 1, market: 1, }, },
