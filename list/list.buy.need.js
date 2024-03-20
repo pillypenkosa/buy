@@ -4,6 +4,10 @@ const arrListBuyNeed = [
 
 
 
+
+{ title: 'Сітечко для ванни', hash: { home: 1, }, },
+
+
 { title: 'Піноізол на підлогу на хаті', hash: { home: 1, }, },
 { title: 'Відро для полу на хаті', hash: { home: 1, }, },
 
