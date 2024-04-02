@@ -5,6 +5,9 @@ const arrListBuyNeed = [
 
 
 
+{ title: 'Замок на хвіртку', hash: { household: 1, barabashovo: 1, market: 1, }, },
+
+
 { title: 'Штани спортивні легкі', hash: { home: 1, }, },
 
 
@@ -90,7 +93,6 @@ const arrListBuyNeed = [
 
 { title: 'Килимки на підлогу', hash: { car: 1, autograd: 1, losk: 1, }, },
 { title: 'Телевізор на кухню', hash: { home: 1, }, },
-{ title: 'Замок кодовий на хвіртку', hash: { household: 1, barabashovo: 1, market: 1, }, },
 { title: '2 труби 3/4-різьба та 2 згонки (втулки мама-мама) для перехода з крана на цю трубу <br/>для насоса опалення біля котла', hash: { household: 1, barabashovo: 1, market: 1, }, },
 { title: 'Сушкар, присипка для ніг', hash: { pharmacy: 1, }, },
 { title: 'Вітаміни для очей <br/>Чорниця', hash: { pharmacy: 1, }, },
