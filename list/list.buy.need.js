@@ -2,10 +2,14 @@ const arrListBuyNeed = [
 
 
 
+{ title: 'Датчик-выключатель фонарей заднего хода', hash: { losk: 1, }, },
+
+
+{ title: 'Метчики 8, 10', hash: { losk: 1, barabashovo: 1, market: 1, }, },
 
 
 
-{ title: 'Замок на хвіртку', hash: { household: 1, barabashovo: 1, market: 1, }, },
+//{ title: 'Замок на хвіртку', hash: { household: 1, barabashovo: 1, market: 1, }, },
 
 
 { title: 'Штани спортивні легкі', hash: { home: 1, }, },
