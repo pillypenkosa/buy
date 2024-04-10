@@ -2,6 +2,13 @@ const arrListBuyNeed = [
 
 
 
+
+
+
+
+{ title: 'Кроси легкі під форму', hash: { barabashovo: 1, market: 1, }, },
+
+
 { title: 'Датчик-выключатель фонарей заднего хода', hash: { losk: 1, }, },
 
 
