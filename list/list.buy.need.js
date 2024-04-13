@@ -6,13 +6,38 @@ const arrListBuyNeed = [
 
 
 
+
+
+{ title: 'Гайки х6', hash: { barabashovo: 1, market: 1, }, },
+{ title: 'Гайки х8', hash: { barabashovo: 1, market: 1, }, },
+
+{ title: 'Шайбии х6 (стандартні, широкі)', hash: { barabashovo: 1, market: 1, }, },
+{ title: 'Шайбии х8 (стандартні, широкі)', hash: { barabashovo: 1, market: 1, }, },
+
+
+{ title: 'Жало лужене для пальника', hash: { barabashovo: 1, market: 1, }, },
+
+
+{ title: 'Кільца для ключів', hash: { barabashovo: 1, market: 1, }, },
+
+{ title: 'Бірки з папірцями для ключів', hash: { barabashovo: 1, market: 1, }, },
+
+
+{ title: 'Риб\єячий жир', hash: { atb: 1, }, },
+
+
+
+
+{ title: 'Пшикалка-лійка для миття авто', hash: { car: 1, barabashovo: 1, market: 1, }, },
+
+
 { title: 'Кроси легкі під форму', hash: { barabashovo: 1, market: 1, }, },
 
 
-{ title: 'Датчик-выключатель фонарей заднего хода', hash: { losk: 1, }, },
+//{ title: 'Датчик-выключатель фонарей заднего хода', hash: { losk: 1, }, },
 
 
-{ title: 'Метчики 8, 10', hash: { losk: 1, barabashovo: 1, market: 1, }, },
+{ title: 'Рюкзак', hash: { barabashovo: 1, market: 1, }, },
 
 
 
@@ -24,6 +49,8 @@ const arrListBuyNeed = [
 
 { title: 'Піноізол на підлогу на хаті', hash: { home: 1, }, },
 { title: 'Відро для полу на хаті', hash: { home: 1, }, },
+
+{ title: 'Антена для радіо на дах авто', hash: { car: 1, barabashovo: 1, market: 1, }, },
 
 
 //{ title: 'Градусник для тіла', hash: { pharmacy: 1, }, },
@@ -44,7 +71,6 @@ const arrListBuyNeed = [
 
 //{ title: 'Шприц великий для промивки', hash: { household: 1, barabashovo: 1, market: 1, }, },
 
-{ title: 'Рюкзак', hash: { barabashovo: 1, market: 1, }, },
 
 { title: 'Парасолька 1.5-місна', hash: { household: 1, barabashovo: 1, market: 1, }, },
 
