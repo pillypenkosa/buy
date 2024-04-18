@@ -5,28 +5,24 @@ const arrListBuyNeed = [
 
 
 
+{ title: 'Перекис водню', hash: { pharmacy: 1, }, },
+
+{ title: 'Трансформатор 12В', hash: { barabashovo: 1, market: 1, }, },
 
 
+//{ title: 'Гайки х6', hash: { barabashovo: 1, market: 1, }, },
+//{ title: 'Гайки х8', hash: { barabashovo: 1, market: 1, }, },
 
-{ title: 'Гайки х6', hash: { barabashovo: 1, market: 1, }, },
-{ title: 'Гайки х8', hash: { barabashovo: 1, market: 1, }, },
-
-{ title: 'Шайбии х6 (стандартні, широкі)', hash: { barabashovo: 1, market: 1, }, },
-{ title: 'Шайбии х8 (стандартні, широкі)', hash: { barabashovo: 1, market: 1, }, },
+//{ title: 'Шайбии х6 (стандартні, широкі)', hash: { barabashovo: 1, market: 1, }, },
+//{ title: 'Шайбии х8 (стандартні, широкі)', hash: { barabashovo: 1, market: 1, }, },
 
 
 { title: 'Жало лужене для пальника', hash: { barabashovo: 1, market: 1, }, },
 
-
 { title: 'Кільца для ключів', hash: { barabashovo: 1, market: 1, }, },
-
 { title: 'Бірки з папірцями для ключів', hash: { barabashovo: 1, market: 1, }, },
 
-
-{ title: 'Риб\єячий жир', hash: { atb: 1, }, },
-
-
-
+//{ title: 'Риб\єячий жир', hash: { atb: 1, }, },
 
 { title: 'Пшикалка-лійка для миття авто', hash: { car: 1, barabashovo: 1, market: 1, }, },
 
