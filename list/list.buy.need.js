@@ -4,9 +4,9 @@ const arrListBuyNeed = [
 
 
 { title: 'Мочалка для взуття', hash: { barabashovo: 1, market: 1, }, },
-{ title: 'Дезодорант для тіла по 54 грн 3-4 шт.', hash: { atb: 1, }, },
+//{ title: 'Дезодорант для тіла по 54 грн 3-4 шт.', hash: { atb: 1, }, },
 
-{ title: 'Ключ х12 або головка чи трубка', hash: { barabashovo: 1, market: 1, }, },
+//{ title: 'Ключ х12 або головка чи трубка', hash: { barabashovo: 1, market: 1, }, },
 
 
 
@@ -24,12 +24,10 @@ const arrListBuyNeed = [
 
 { title: 'Жало лужене для паяльника', hash: { barabashovo: 1, market: 1, }, },
 
-{ title: 'Кільца для ключів', hash: { barabashovo: 1, market: 1, }, },
+//{ title: 'Кільца для ключів', hash: { barabashovo: 1, market: 1, }, },
 { title: 'Бірки з папірцями для ключів', hash: { barabashovo: 1, market: 1, }, },
 
 //{ title: 'Риб\'ячий жир', hash: { atb: 1, }, },
-
-{ title: 'Пшикалка-лійка для миття авто', hash: { car: 1, barabashovo: 1, market: 1, }, },
 
 
 { title: 'Кроси легкі під форму', hash: { barabashovo: 1, market: 1, }, },
