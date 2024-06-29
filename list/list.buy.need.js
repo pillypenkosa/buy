@@ -1,6 +1,7 @@
 const arrListBuyNeed = [
 
 
+{ title: 'Серветки зелені', hash: { atb: 1, }, },
 
 
 { title: 'Мочалка для взуття', hash: { barabashovo: 1, market: 1, }, },
