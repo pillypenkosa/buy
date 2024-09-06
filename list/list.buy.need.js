@@ -1,67 +1,19 @@
 const arrListBuyNeed = [
 
 
-{ title: 'Серветки зелені', hash: { atb: 1, }, },
 
-
-{ title: 'Мочалка для взуття', hash: { barabashovo: 1, market: 1, }, },
-//{ title: 'Дезодорант для тіла по 54 грн 3-4 шт.', hash: { atb: 1, }, },
-
-//{ title: 'Ключ х12 або головка чи трубка', hash: { barabashovo: 1, market: 1, }, },
-
-
-
-//{ title: 'Перекис водню', hash: { pharmacy: 1, }, },
-
-//{ title: 'Трансформатор 12В', hash: { barabashovo: 1, market: 1, }, },
-
-
-//{ title: 'Гайки х6', hash: { barabashovo: 1, market: 1, }, },
-//{ title: 'Гайки х8', hash: { barabashovo: 1, market: 1, }, },
-
-//{ title: 'Шайбии х6 (стандартні, широкі)', hash: { barabashovo: 1, market: 1, }, },
-//{ title: 'Шайбии х8 (стандартні, широкі)', hash: { barabashovo: 1, market: 1, }, },
+{ title: 'Ключ х9 для газового котла', hash: { barabashovo: 1, market: 1, }, },
 
 
 { title: 'Жало лужене для паяльника', hash: { barabashovo: 1, market: 1, }, },
 
-//{ title: 'Кільца для ключів', hash: { barabashovo: 1, market: 1, }, },
-{ title: 'Бірки з папірцями для ключів', hash: { barabashovo: 1, market: 1, }, },
-
-//{ title: 'Риб\'ячий жир', hash: { atb: 1, }, },
-
-
-{ title: 'Кроси легкі під форму', hash: { barabashovo: 1, market: 1, }, },
-
-
-//{ title: 'Датчик-выключатель фонарей заднего хода', hash: { losk: 1, }, },
-
-
-{ title: 'Рюкзак', hash: { barabashovo: 1, market: 1, }, },
-
-
-
-//{ title: 'Замок на хвіртку', hash: { household: 1, barabashovo: 1, market: 1, }, },
-
-
-{ title: 'Штани спортивні легкі', hash: { home: 1, }, },
-
-
-{ title: 'Піноізол на підлогу на хаті', hash: { home: 1, }, },
-{ title: 'Відро для полу на хаті', hash: { home: 1, }, },
 
 { title: 'Антена для радіо на дах авто', hash: { car: 1, barabashovo: 1, market: 1, }, },
 
 
-//{ title: 'Градусник для тіла', hash: { pharmacy: 1, }, },
-
-//{ title: 'Рушник великий махровий', hash: { home: 1, barabashovo: 1, market: 1, }, },
-{ title: 'Ключ консервний', hash: { home: 1, barabashovo: 1, market: 1, }, },
 
 
-//{ title: 'Папір А4, 1-2 пачки', hash: { household: 1, barabashovo: 1, market: 1, }, },
-{ title: 'Сушилки для взуття', hash: { household: 1, barabashovo: 1, market: 1, }, },
-{ title: 'Кобура прихованого носіння Форт-17', hash: { household: 1, barabashovo: 1, market: 1, }, },
+
 
 //{ title: 'Серветки зелені (паперові рушники)', hash: { household: 1, barabashovo: 1, market: 1, }, },
 
