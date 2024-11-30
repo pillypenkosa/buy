@@ -78,6 +78,33 @@ household: 1, 	// домашнее хозяйство, сад, огород, д�
 
 
 {
+	id 				: '2024_11_30_1102',
+	title 			: 'Фільтр масляний',
+	hash 			: { car: 1, },	
+	manufacturer 	: 'Kolbenschmidt',
+	mark 			: '50 013 073',
+	trader 			: { shop: 'kharkiv_losk_2_4', }, 
+	cost 			: { total: 150, price: 150, item: 1, unit: 'л', },
+},
+{
+	id 				: '2024_11_30_1101',
+	title 			: 'Масло моторне',
+	hash 			: { car: 1, },	
+	manufacturer 	: 'Liqui Moly',
+	mark 			: '10W-40, ACEA A3/B4, API SN, VW 50101/50500',
+	trader 			: { shop: 'kharkiv_losk_2_4', }, 
+	cost 			: { total: 2000, price: 400, item: 5, unit: 'л', },
+},
+{
+	id 				: '2024_11_30_1100',
+	title 			: 'Трос спідометра',
+	hash 			: { car: 1, },	
+	manufacturer 	: 'Adriauto',
+	mark 			: '55.1524',
+	trader 			: { shop: 'kharkiv_losk_2_4', }, 
+	cost 			: { total: 350, price: 350, item: 1, unit: 'шт', },
+},
+{
 	id 				: '2024_09_09_1301',
 	title 			: 'Бачок розширювальний',
 	hash 			: { car: 1, },	
