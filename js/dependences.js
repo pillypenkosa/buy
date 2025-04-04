@@ -6,9 +6,10 @@ const dependences = {
 		'middle',
 	],
 
-	listGIT: [ 		// https://pillypenkosa.github.io/database/list/list. ${ k } .js
+	listGIT: [ 		// https://pillypenkosa.github.io/db/list/list. ${ k } .js
 
-		'shop',
+		'shops',
+
 	],
 
 	listApp: [ 		// list/list. ${ k } .js

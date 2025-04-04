@@ -75,6 +75,16 @@ household: 1, 	// домашнее хозяйство, сад, огород, д�
 
 
 
+
+{
+	id 				: '2025_04_02_1000',
+	title 			: 'Штани',
+	hash 			: { pc: 1, },	
+	manufacturer 	: 'M-Tac',
+	mark 			: 'Conquistador Flex Gen-1 Rip-stop (розмір 36/30)',
+	trader 			: { shop: 'kharkiv_ militarist_1', }, 
+	cost 			: { total: 2500, price: 2500, item: 1, unit: 'шт', },
+},
 {
 	id 				: '2024_12_20_1300',
 	title 			: 'Монітор',
