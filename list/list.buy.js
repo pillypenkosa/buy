@@ -76,6 +76,26 @@ household: 1, 	// домашнее хозяйство, сад, огород, д�
 
 
 
+
+
+{
+	id 				: '2025_06_21_1000',
+	title 			: 'Навушники',
+	hash 			: { pc: 1, },	
+	manufacturer 	: 'JBL Tune 720 BT',
+	mark 			: 'JBLT720BTBLK',
+	trader 			: { shop: 'slovyansk_vodafon_1', }, // https://maps.app.goo.gl/stMggoMGGC7SG9G7A // 
+	cost 			: { total: 3300, price: 3300, item: 1, unit: 'шт', },
+},
+{
+	id 				: '2025_06_20_1200',
+	title 			: 'Планшет',
+	hash 			: { pc: 1, },	
+	manufacturer 	: 'Lenovo Galaxy Tab A9+',
+	mark 			: 'SM-X210NZAESEK',
+	trader 			: { shop: '', site: 'https://rozetka.com.ua/ua/samsung-sm-x210nzaesek/p412084374/',  },
+	cost 			: { total: 8600, price: 8600, item: 1, unit: 'шт', },
+},
 {
 	id 				: '2025_04_02_1000',
 	title 			: 'Штани',
@@ -85,6 +105,9 @@ household: 1, 	// домашнее хозяйство, сад, огород, д�
 	trader 			: { shop: 'kharkiv_militarist_1', }, 
 	cost 			: { total: 2500, price: 2500, item: 1, unit: 'шт', },
 },
+
+
+
 {
 	id 				: '2024_12_20_1300',
 	title 			: 'Монітор',

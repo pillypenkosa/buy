@@ -26,20 +26,20 @@ const arrListBuyNeed = [
 
 { title: 'Парасолька 1.5-місна', hash: { household: 1, barabashovo: 1, market: 1, }, },
 
-{ title: 'Перчатки безпалі', hash: { household: 1, barabashovo: 1, market: 1, }, },
-{ title: 'Кроси-черевики без хутра', hash: { household: 1, barabashovo: 1, market: 1, }, },
-{ title: 'Кроси або ботинки під дощ', hash: { barabashovo: 1, market: 1, }, },
-{ title: 'Подштанники 2-3 пари', hash: { barabashovo: 1, market: 1, }, },
+//{ title: 'Перчатки безпалі', hash: { household: 1, barabashovo: 1, market: 1, }, },
+//{ title: 'Кроси-черевики без хутра', hash: { household: 1, barabashovo: 1, market: 1, }, },
+//{ title: 'Кроси або ботинки під дощ', hash: { barabashovo: 1, market: 1, }, },
+//{ title: 'Подштанники 2-3 пари', hash: { barabashovo: 1, market: 1, }, },
 
 
-{ title: 'Труби для димоходу, 130 мм', hash: { household: 1, barabashovo: 1, market: 1, }, },
+//{ title: 'Труби для димоходу, 130 мм', hash: { household: 1, barabashovo: 1, market: 1, }, },
 
 //{ title: 'Карабінчики пластикові на бронік', hash: { market: 1, }, },
 { title: 'Вимикач світла для діодних ламп в багажнику', hash: { car: 1, barabashovo: 1, market: 1, }, },
 { title: 'Вимикач світла для гаража', hash: { household: 1, barabashovo: 1, market: 1, }, },
 
 //{ title: 'Олія моторна 5л <br/> Aral Blue Tronic 10w40, ACEA A3/B4, API SN, VW 501.01/505.00', hash: { car: 1, autograd: 1, losk: 1, }, },
-{ title: 'Товсті саморізи чорні для кріплення обшивки в багажнику', hash: { car: 1, losk: 1, autograd: 1, }, },
+//{ title: 'Товсті саморізи чорні для кріплення обшивки в багажнику', hash: { car: 1, losk: 1, autograd: 1, }, },
 { title: 'Заглушка-гайка для фіксації килимка в багажнику за задніми сидіннями', hash: { car: 1, losk: 1, autograd: 1, }, },
 { title: 'Фіксатор-упор переднього сидіння ( замість скоби )', hash: { car: 1, losk: 1, autograd: 1, }, },
 
@@ -69,7 +69,7 @@ const arrListBuyNeed = [
 { title: 'Графіт без меді', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
 { title: 'Паста Гої', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
 
-{ title: 'Ручка в набір головок ( яка загубилась )', hash: { tool: 1, car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
+//{ title: 'Ручка в набір головок ( яка загубилась )', hash: { tool: 1, car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
 { title: 'Диски R15 та шини літні', hash: { car: 1, autograd: 1, losk: 1, barabashovo: 1, market: 1, }, },
 { title: 'Коротка трубка клапана хх, яка йде в впускний колектор', hash: { car: 1, autograd: 1, losk: 1, }, },
 { title: 'Кінцевики-кнопки відкриття капоту та ляди для сигналізації', hash: { car: 1, autograd: 1, losk: 1, }, },
