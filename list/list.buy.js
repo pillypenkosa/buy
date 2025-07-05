@@ -75,9 +75,17 @@ household: 1, 	// домашнее хозяйство, сад, огород, д�
 
 
 
-
-
-
+{
+	id 				: '2025_07_04_1600',
+	title 			: 'Телефон',
+	hash 			: { phone: 1, },	
+	manufacturer 	: 'Samsung Galaxy A26',
+	mark 			: 'SM-A266B/DS',
+	sn 				: 'R5CY50LX9QL',
+	imei 			: '',
+	trader 			: { site: 'https://rozetka.com.ua/ua/samsung-sm-a266bzkceuc/p484698759/',  },
+	cost 			: { total: 12000, price: 12000, item: 1, unit: 'шт', },
+},
 {
 	id 				: '2025_06_21_1000',
 	title 			: 'Навушники',
@@ -93,7 +101,7 @@ household: 1, 	// домашнее хозяйство, сад, огород, д�
 	hash 			: { pc: 1, },	
 	manufacturer 	: 'Lenovo Galaxy Tab A9+',
 	mark 			: 'SM-X210NZAESEK',
-	trader 			: { shop: '', site: 'https://rozetka.com.ua/ua/samsung-sm-x210nzaesek/p412084374/',  },
+	trader 			: { site: 'https://rozetka.com.ua/ua/samsung-sm-x210nzaesek/p412084374/',  },
 	cost 			: { total: 8600, price: 8600, item: 1, unit: 'шт', },
 },
 {
@@ -105,9 +113,6 @@ household: 1, 	// домашнее хозяйство, сад, огород, д�
 	trader 			: { shop: 'kharkiv_militarist_1', }, 
 	cost 			: { total: 2500, price: 2500, item: 1, unit: 'шт', },
 },
-
-
-
 {
 	id 				: '2024_12_20_1300',
 	title 			: 'Монітор',
