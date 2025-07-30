@@ -75,6 +75,28 @@ household: 1, 	// домашнее хозяйство, сад, огород, д�
 
 
 
+
+
+
+
+{
+	id 				: '2025_07_30_1600',
+	title 			: 'Зарядний пристрій USB',
+	hash 			: { phone: 1, },	
+	manufacturer 	: 'WUW Fast Charger 48w',
+	mark 			: 'C212',
+	trader 			: { shop: 'slovyansk_pc_repair', }, // https://maps.app.goo.gl/stMggoMGGC7SG9G7A // 
+	cost 			: { total: 145, price: 145, item: 1, unit: 'шт', },
+},
+{
+	id 				: '2025_07_15_1300',
+	title 			: 'Машинка для стрижки',
+	hash 			: { phone: 1, },	
+	manufacturer 	: 'Maxtop',
+	mark 			: 'Dragon',
+	trader 			: { shop: 'slovyansk_chudo_1_shop_1', }, // https://maps.app.goo.gl/stMggoMGGC7SG9G7A // 
+	cost 			: { total: 280, price: 280, item: 1, unit: 'шт', },
+},
 {
 	id 				: '2025_07_04_1600',
 	title 			: 'Телефон',
