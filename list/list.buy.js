@@ -416,10 +416,6 @@ household: 1, 	// домашнее хозяйство, сад, огород, д�
 	trader 			: { site: 'https://your-car.com.ua/product/0986ah0453/bosch/',  },
 	cost 			: { total: 256, price: 64, item: 4, unit: 'шт', },
 },
-
-
-
-
 {
 	id 				: '2023_09_01_0900',
 	title 			: 'Реле 4-контактне',
@@ -474,25 +470,6 @@ household: 1, 	// домашнее хозяйство, сад, огород, д�
 	trader 			: { shop: 'kharkiv_epicentr_1', },
 	cost 			: { total: 3650, price: 3650, item: 1, unit: 'шт', },
 },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 {
 	id 				: '2023_07_26_2100',
 	title 			: 'Глушник задній',
@@ -746,7 +723,7 @@ household: 1, 	// домашнее хозяйство, сад, огород, д�
 	hash 			: {},
 	manufacturer 	: 'Crownberg',
 	mark 			: 'CB-7746',
-	trader 			: { shop: '', site: 'https://prom.ua/ua/p1617063394-teploventilyator-obogrevatel-dujka.html?adjust_campaign=share&adjust_adgroup=android&adjust_creative=product&utm_campaign=share_button&utm_medium=referral_link&utm_source=b2c_app_android',  },
+	trader 			: { shop: '', site: '',  },
 	cost 			: { total: 440, price: 440, item: 1, unit: 'шт', },
 },
 {
@@ -853,6 +830,27 @@ household: 1, 	// домашнее хозяйство, сад, огород, д�
 	cost 			: { total: 0, price: 0, item: 1, unit: 'шт', },
 	note 			: 'Made in Китай',
 },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 { 
 	id  			: '2022_10_29_1802',
 	title 			: 'Датчик-вимикач ліхтарів заднього ходу', 
